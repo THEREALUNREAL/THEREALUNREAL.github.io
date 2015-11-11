@@ -1,0 +1,15 @@
+<header class="site-header">
+
+  <h1>Ricardo<br /><em>Unreal</em> Sousa</h1>
+  <ul class="contact-links">
+    {% for item in site.contact %}
+      <li>
+        <i class="fa fa-{{ item[1].icon }}"></i>
+        <a href="{{ item[1].url }}">
+          {{ item[1].text }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</header>
