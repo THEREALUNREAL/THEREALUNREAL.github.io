@@ -8,5 +8,5 @@ image: /images/blast.jpg
 
 **DE_Blast** was a project created for the "Beneath the Dust Mapping Competition", so my goal here was to create an underground area used by the military.
 
-[![Cat #1]({{ site.url }}/images/blast/de_blast_beta010007.jpg)]({{ site.url }}/images/blast/de_blast_beta010007.jpg)
-[![Cat #2]({{ site.url }}/images/blast/de_blast_beta010007.jpg)]({{ site.url }}/images/blast/de_blast_beta010007.jpg)
+[![Blast #1]({{ site.url }}/images/blast/de_blast_beta010007.jpg)]({{ site.url }}/images/blast/de_blast_beta010007.jpg)
+[![Blast #2]({{ site.url }}/images/blast/de_blast_beta010007.jpg)]({{ site.url }}/images/blast/de_blast_beta010007.jpg)
