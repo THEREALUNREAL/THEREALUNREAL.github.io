@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ricardo "Unreal" Sousa
+title: Ricardo "UNREAL" Sousa
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -18,17 +18,17 @@ url: "//therealunreal.github.io" # the base hostname & protocol for your site
 # Site-wide content settings
 contact: # displayed in header
     mail:
-        text: example@example.com
+        text: unrealthereal@gmail.com
         icon: envelope # see https://fortawesome.github.io/Font-Awesome/icons/
-        url: mailto:example@example.com
+        url: mailto:unrealthereal@gmail.com
     facebook:
-        text: /example
+        text: /ricardosousa93
         icon: facebook-square
-        url: https://example.com
+        url: https://www.facebook.com/ricardosousa93
     steam:
-        text: /id/example
+        text: /id/unrea1
         icon: steam-square
-        url: https://example.com
+        url: http://steamcommunity.com/id/unrea1/
 
 # Build settings
 markdown: kramdown
