@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "SPAAAACE"
+date:   2012-02-01 21:51:56 +0100
+category: "3D/LevelDesign"
+image: /images/spaaaace.jpg
+---
+
+**KOTH_SPAAAACE** is a Team Fortress 2 King of the Hill map space themed as the name suggests. It was created for the "Kepler 22-b Mapping Contest" where it placed 4th. Despite the -kind of- disapointing result I still consider it one the best experiences I had in mapping, for having to think out of the box. Definetely a challenging map for me at the time and learned a bunch.
+
+[![Spaaaace #1]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010003.jpg)]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010003.jpg)
+[![Spaaaace #2]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010002.jpg)]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010002.jpg)
