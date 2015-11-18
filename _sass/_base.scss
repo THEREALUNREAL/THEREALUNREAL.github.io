@@ -2,7 +2,7 @@ $color-em: #f5bc52;
 
 html,body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: $base-font-family;
   background: #fff;
 }
 h1,h2,h3 {
@@ -81,4 +81,18 @@ a:hover { color: #666 }
 img.cover-image {
   box-shadow: none;
   margin: 0;
+}
+
+.portrait {
+  float: left;
+  max-width: 50%;
+  margin: 0 1em 1em 0;
+}
+.portrait * { width: 100%; }
+
+footer, footer a {
+  margin: 2em 0;
+  color: #666;
+  text-align: center;
+  clear: both;
 }
