@@ -19,7 +19,18 @@ i.fa { margin-right: 6px; }
 /* -- Style -- */
 a { color: #000 }
 a:hover { color: #666 }
-.title { text-decoration: none; }
+.top a {
+  display: inline-block;
+  height: 100%;
+  width: 60%;
+  text-decoration: none;
+}
+.top .about-link {
+  width: 40%;
+  text-align: right;
+
+  & h3 { font-size: 20pt }
+}
 .page-content {
   max-width: 100%;
   width: 800px;
