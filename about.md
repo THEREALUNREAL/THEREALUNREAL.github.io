@@ -7,7 +7,7 @@ permalink: /about/
 [![A picture of me](/images/avatar2.jpg)](/images/avatar2.jpg){: .portrait}
 
 
-Hi, my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from Portugal. Back in 2007 I found myself wanting to create maps for Counter-Strike: Source, I had previously tried some other tools and sandbox games which I always enjoyed creating stuff in, but nothing gave me as much freedom as the SourceSDK. From there I grew up creating levels for various other games and mods, becoming really passionate and determined to learn more and more about the creation of 3D environments.
+Hi, my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. Back in 2007 I found myself wanting to create maps for Counter-Strike: Source, I had previously tried some other tools and sandbox games which I always enjoyed creating stuff in, but nothing gave me as much freedom as the SourceSDK. From there I grew up creating levels for various other games and mods, becoming really passionate and determined to learn more and more about the creation of 3D environments.
 
 
 
