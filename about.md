@@ -10,9 +10,9 @@ Hi, my name is Ricardo Sousa and I'm a college student in _Imagem Animada_ (anim
 
 
 
+
 At the moment I focus on developing other skills such as Modelling and Photoshop, and would like to get into Programming soon to become a more complete artist in the world of 3D and Level Design.
 
-Creating levels has become more than just an hobby, it's a way of relaxing and being in my own world and away from real life stress.
 
 So far I've gotten some top places in mapping competitions, some of which you can check out listed below.
 
@@ -28,5 +28,7 @@ _3rd Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/4">TF2
 
 _4th Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/16">Kepler 22-B Mapping Contest</a> with KOTH_Spaaaace [TF2]
 
+
+Creating levels has become more than just an hobby, it's a way of relaxing and being in my own world and away from real life stress.
 
 Thanks for checking out my portfolio, I hope you enjoy!
