@@ -15,6 +15,8 @@ Hi, my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I
 At the moment I focus on developing other skills such as Modelling and Photoshop, and would like to get into Programming soon to become a more complete artist in the world of 3D and Level Design.
 
 
+I consider myself a Source engine veteran Level Designer, I'm familiar with all versions of the engine, and I am capable of creating levels for most popular titles such as **Counter-Strike** (any version), **Team Fortress 2**, **Portal 2** and **Dota 2**, or any other third-party mod really.
+
 So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
 
 _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
