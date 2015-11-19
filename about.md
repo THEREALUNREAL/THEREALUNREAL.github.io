@@ -15,7 +15,7 @@ Hi, my name is **Ricardo Sousa**, also known as UNREAL in the internets, and I'm
 At the moment I focus on developing other skills such as Modelling and Photoshop, and would like to get into Programming soon to become a more complete artist in the world of 3D and Level Design.
 
 
-So far I've gotten some top places in mapping competitions, some of which you can check out listed below.
+So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
 
 _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
 
