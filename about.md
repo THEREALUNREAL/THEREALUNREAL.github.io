@@ -6,9 +6,13 @@ permalink: /about/
 
 [![A picture of me](/images/me.jpg)](/images/me.jpg){: .portrait}
 
-Hi, my name is Ricardo Sousa and I'm a college student in _Imagem Animada_ (animation) from Portugal. Back in 2007 I found myself wanting to create maps for Counter-Strike: Source, I had previously tried some other tools and sandbox games which I always enjoyed creating stuff in, but nothing gave me as much freedom as the SourceSDK. From there I grew up creating levels for various other games and mods, becoming really passionate and determined to learn more and more about 3D environments creation.
+Hi, my name is Ricardo Sousa and I'm a college student in _Imagem Animada_ (animation) from Portugal. Back in 2007 I found myself wanting to create maps for Counter-Strike: Source, I had previously tried some other tools and sandbox games which I always enjoyed creating stuff in, but nothing gave me as much freedom as the SourceSDK. From there I grew up creating levels for various other games and mods, becoming really passionate and determined to learn more and more about the creation of 3D environments.
+
+
+
 At the moment I focus on developing other skills such as Modelling and Photoshop, and would like to get into Programming soon to become a more complete artist in the world of 3D and Level Design.
 
+Creating levels has become more than just an hobby, it's a way of relaxing and being in my own world and away from real life stress.
 
 So far I've gotten some top places in mapping competitions, some of which you can check out listed below.
 
