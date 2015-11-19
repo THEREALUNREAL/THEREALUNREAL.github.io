@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-[![A picture of me](/images/me.jpg)](/images/me.jpg){: .portrait}
+[![A picture of me](/images/avatar.png)](/images/avatar.png){: .portrait}
 
 Hi, my name is Ricardo Sousa and I'm a college student in _Imagem Animada_ (animation) from Portugal. Back in 2007 I found myself wanting to create maps for Counter-Strike: Source, I had previously tried some other tools and sandbox games which I always enjoyed creating stuff in, but nothing gave me as much freedom as the SourceSDK. From there I grew up creating levels for various other games and mods, becoming really passionate and determined to learn more and more about the creation of 3D environments.
 
