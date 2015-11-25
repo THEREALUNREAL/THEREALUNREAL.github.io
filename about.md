@@ -27,6 +27,4 @@ _3rd Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/4">TF2
 _4th Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/16">Kepler 22-B Mapping Contest</a> with KOTH_Spaaaace [TF2]
 
 
-Creating levels has become more than just an hobby, it's a way of relaxing and being in my own world and away from real life stress.
-
 Thanks for checking out my portfolio, I hope you enjoy!
