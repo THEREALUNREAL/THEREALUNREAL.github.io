@@ -9,10 +9,10 @@ permalink: /about/
 
 <font size="6">Hi,</font> my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. I like spending time creating 3D environments and levels for games. I love VALVE.
 
+<font size="6">AWARDS</font>
 
 So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
 
-<font size="6">AWARDS</font>
 
 _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
 
