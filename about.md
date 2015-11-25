@@ -7,17 +7,12 @@ permalink: /about/
 [![A picture of me](/images/avatar2.jpg)](/images/avatar2.jpg){: .portrait}
 
 
-Hi, my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. Back in 2007 I found myself wanting to create maps for Counter-Strike: Source, I had previously tried some other tools and sandbox games which I always enjoyed creating stuff in, but nothing gave me as much freedom as the SourceSDK. From there I grew up creating levels for various other games and mods, becoming really passionate and determined to learn more and more about the creation of 3D environments.
+Hi, my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. I like spending time creating 3D environments and levels for games. I love VALVE.
 
-
-
-
-At the moment I focus on developing other skills such as Modelling and Photoshop, and would like to get into Programming soon to become a more complete artist in the world of 3D and Level Design.
-
-
-I consider myself a Source engine veteran Level Designer, I'm familiar with all versions of the engine, and I am capable of creating levels for any of the most popular titles such as **Counter-Strike** (any version), **Team Fortress 2**, **Portal 2** and **Dota 2**, or any other third-party mod really. VALVE fanboy here.
 
 So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
+
+<font size="6">AWARDS</font>
 
 _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
 
