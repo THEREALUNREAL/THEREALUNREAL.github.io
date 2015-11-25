@@ -7,7 +7,7 @@ permalink: /about/
 [![A picture of me](/images/avatar2.jpg)](/images/avatar2.jpg){: .portrait}
 
 
-Hi, my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. I like spending time creating 3D environments and levels for games. I love VALVE.
+<font size="6">Hi,</font> my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. I like spending time creating 3D environments and levels for games. I love VALVE.
 
 
 So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
