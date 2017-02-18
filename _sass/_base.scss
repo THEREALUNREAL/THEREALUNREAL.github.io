@@ -4,7 +4,12 @@ html,body {
   margin: 0;
   font-family: $base-font-family;
   background: #252525;
-  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/debut_dark.png");
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/black-Linen.png");
+  
+  //https://www.toptal.com/designers/subtlepatterns/patterns/black-Linen.png
+  //https://www.toptal.com/designers/subtlepatterns/patterns/debut_dark.png
+  //https://www.toptal.com/designers/subtlepatterns/patterns/dark_wall.png
+  
   color: #ffffff;
 }
 h1,h2,h3 {
@@ -50,6 +55,10 @@ a:hover { color: #f5bc52 }
     font-size: 18px;
   }
 }
+.project:hover {
+  border-right: 6px solid #ffffff;  
+}
+
 .project {
   position: relative;
   display: block;
