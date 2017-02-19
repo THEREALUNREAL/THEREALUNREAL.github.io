@@ -4,9 +4,12 @@ title:  "Blast"
 date:   2015-10-05 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/blast.jpg
+icon: /images/icons/csgo.png
 ---
 
-**DE_Blast** was a project created for the "Beneath the Dust Mapping Competition". It's set on an underground military base.
+**DE_Blast** is a CS:GO map set on an underground military base in the desert.
+
+It was created as an entry for the "_Beneath the Dust Mapping Competition_".
 
 [![Blast #1]({{ site.url }}/images/blast/de_blast_beta010007.jpg)]({{ site.url }}/images/blast/de_blast_beta010007.jpg)
 [![Blast #2]({{ site.url }}/images/blast/de_blast_beta010020.jpg)]({{ site.url }}/images/blast/de_blast_beta010020.jpg)
