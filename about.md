@@ -7,11 +7,11 @@ permalink: /about/
 [![A picture of me](/images/avatar2.jpg)](/images/avatar2.jpg){: .portrait}
 
 
-<font size="6">Hi,</font> my name is **Ricardo Sousa**. I'm a wannabe Level Designer from Portugal. I'm motivated to learn and trying new things. I've been using Source Engine as my main tool for about 10 years, and recently got into Unity and programming C#.
--
-Since very young age I enjoy being in my own world and I guess that helped shape my passion for Level Design. I've always loved playing games and exploring their environments. I started with consoles but later moved to PC and quickly jumped into mapping. I eventually surrounded myself with people from all diferent areas of game modding who taught me a lot!
+<font size="6">Hi,</font> <p>my name is **Ricardo Sousa**. I'm a wannabe Level Designer from Portugal. I'm motivated to learn and trying new things. I've been using Source Engine as my main tool for about 10 years, and recently got into Unity and programming C#.</p>
 
-I've always tried to remain active, whenever time allows. I've participated and won multiple mapping contests. Nowadays I try to find time to work on indie games and participating in Game Jams and Game Dev related events.
+<p>Since very young age I enjoy being in my own world and I guess that helped shape my passion for Level Design. I've always loved playing games and exploring their environments. I started with consoles but later moved to PC and quickly jumped into mapping. I eventually surrounded myself with people from all diferent areas of game modding who taught me a lot!</p>
+
+</p>I've always tried to remain active, whenever time allows. I've participated and won multiple mapping contests. Nowadays I try to find time to work on indie games and participating in Game Jams and Game Dev related events.</p>
 
 
 <font size="6">Achievements:</font>
