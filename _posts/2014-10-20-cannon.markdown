@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Cannon model - First 3D modelling experience"
+title:  "Cannon model"
 date:   2014-10-20 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/canhaorender.jpg
 ---
 
-This cannon model was my first modelling experience from University. It was an enjoyable project to work on and got me hooked.
-It was created for personal use only and _will not be published_.
+This cannon model was my first modelling experience from University. It's not the best looking one but it was a nice first experience with Blender and 3D in general.
