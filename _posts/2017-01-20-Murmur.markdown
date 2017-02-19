@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Murmur // Programmed in C#"
+date:   2017-01-20 21:51:56 +0100
+category: "3D/LevelDesign"
+image: /images/murmur.jpg
+icon: /images/icons/unity.png
+---
+
+**Murmur** was a game I programmed for the 2017 Global Game Jam. I went to Lisbon and met with a group of very talented strangers. The group was amazing and worked really well together, it was the best first game jam experience I could have asked for.
+
+If you want to learn more about this game I recommend you visit <a href="http://globalgamejam.org/2017/games/murmur">Murmurs game page over at globalgamejam.com</a>
+
+Shoutout to the team (left to right):
+**Rafael Freire** as 2D Artist 
+**Ana Catarina** Figueredo as 2D Artist / Animator
+**Carlos Carvão** as Sound Designer
+**Cátia Carvalho** as Game Designer / U.I. 
+**Ricardo Sousa** (me) as Programmer
+
+[![Murmur #1]({{ site.url }}/images/murmur_unity/team.jpg)]({{ site.url }}/images/murmur_unity/team.jpg)
