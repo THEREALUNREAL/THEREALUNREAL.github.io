@@ -4,6 +4,7 @@ title:  "Cannon model"
 date:   2014-10-20 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/canhaorender.jpg
+icon: /images/icons/blender.png
 ---
 
 This cannon model was my first modelling experience from University. It's not the best looking one but it was a nice first experience with Blender and 3D in general.
