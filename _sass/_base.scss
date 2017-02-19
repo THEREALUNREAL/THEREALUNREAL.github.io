@@ -89,10 +89,16 @@ a:hover { color: #f5bc52 }
     padding: .5em;
     background: rgba(0,0,0,.5);
     color :#fff;
+    
+    img {
+      width: 32px;
+      height: 32px;
+      vertical-align: middle;
+    }
   }
 }
   
-.project img, .post-content img, .post-content .cover-image {
+.post-content img, .post-content .cover-image {
     width: 100%;
     min-height: 300px;
     background: #222;
