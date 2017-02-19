@@ -7,9 +7,14 @@ permalink: /about/
 [![A picture of me](/images/avatar2.jpg)](/images/avatar2.jpg){: .portrait}
 
 
-<font size="6">Hi,</font> my name is **Ricardo Sousa**, also known as _UNREAL_ in the internets, and I'm a college student in Imagem Animada (animation) from **Portugal**. I like spending time creating 3D environments and levels for games. I love VALVE.
+<font size="6">Hi,</font> my name is **Ricardo Sousa**. I'm a wannabe Level Designer from Portugal. I'm motivated to learn and trying new things. I've been using Source Engine as my main tool for about 10 years, and recently got into Unity and programming C#.
+-
+Since very young age I enjoy being in my own world and I guess that helped shape my passion for Level Design. I've always loved playing games and exploring their environments. I started with consoles but later moved to PC and quickly jumped into mapping. I eventually surrounded myself with people from all diferent areas of game modding who taught me a lot!
 
-<font size="6">AWARDS</font>
+I've always tried to remain active, whenever time allows. I've participated and won multiple mapping contests. Nowadays I try to find time to work on indie games and participating in Game Jams and Game Dev related events.
+
+
+<font size="6">Achievements:</font>
 
 So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
 
@@ -27,4 +32,4 @@ _3rd Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/4">TF2
 _4th Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/16">Kepler 22-B Mapping Contest</a> with KOTH_Spaaaace [TF2]
 
 
-Thanks for checking out my portfolio, I hope you enjoy!
+Thanks for checking out my portfolio!
