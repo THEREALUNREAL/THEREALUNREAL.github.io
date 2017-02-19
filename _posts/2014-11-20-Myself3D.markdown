@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Myself in 3D"
+title:  "3D head model"
 date:   2014-11-20 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/cabecarender.jpg
+icon: /images/icons/blender.png
 ---
 
 This was my final exercise for 3D Modelling during university.
