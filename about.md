@@ -16,9 +16,6 @@ permalink: /about/
 
 <font size="6">Achievements:</font>
 
-So far I've gotten a few top places in mapping competitions, some of which you can check out listed below.
-
-
 _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
 
 _1st Place_ (100$ prize) - <a href="http://gamebanana.com/contests/winners/31">Winter Wonderland Mapping Contest</a> with DE_ColdBlow [CS:GO]
