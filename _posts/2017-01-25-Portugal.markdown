@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Portugal"
+date:   2017-01-25 21:51:56 +0100
+category: "3D/LevelDesign"
+image: /images/portugal.jpg
+icon: /images/icons/csgo.png
+---
+
+**DE_Portugal** is a CS:GO map inspired by my countries typical village architecture. It's a colorful map with lots of references to portuguese culture.
+
+[![Portugal #1]({{ site.url }}/images/portugal/image1.jpg)]({{ site.url }}/images/portugal/image1.jpg)
+[![Portugal #2]({{ site.url }}/images/portugal/image2.jpg)]({{ site.url }}/images/portugal/image2.jpg)
