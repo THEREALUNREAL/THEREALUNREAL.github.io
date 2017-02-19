@@ -14,7 +14,7 @@ If you want to learn more about this game I recommend you visit:
 
 Shoutout to the team (left to right):
 - **Rafael Freire** as 2D Artist 
-- **Ana Catarina** Figueredo as 2D Artist / Animator
+- **Ana Catarina** as 2D Artist / Animator
 - **Carlos Carvão** as Sound Designer
 - **Cátia Carvalho** as Game Designer / U.I. 
 - **Ricardo Sousa** (me) as Programmer
