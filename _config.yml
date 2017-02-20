@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ricardo "UNREAL" Sousa
+title: Ricardo Sousa
 email: unrealthereal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,6 +21,10 @@ contact: # displayed in header
         text: unrealthereal@gmail.com
         icon: envelope # see https://fortawesome.github.io/Font-Awesome/icons/
         url: mailto:unrealthereal@gmail.com
+    twitter:
+        text: /therealunreal
+        icon: twitter-square
+        url: https://twitter.com/THEREALUNREAL
     facebook:
         text: /ricardosousa93
         icon: facebook-square
