@@ -18,7 +18,7 @@ url: "//therealunreal.github.io" # the base hostname & protocol for your site
 # Site-wide content settings
 contact: # displayed in header
     mail:
-        text: unrealthereal@gmail.com
+        text: ricardodesousa.info@gmail.com
         icon: envelope # see https://fortawesome.github.io/Font-Awesome/icons/
         url: mailto:ricardodesousa.info@gmail.com
     twitter:
