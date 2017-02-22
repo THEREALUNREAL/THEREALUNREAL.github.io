@@ -29,10 +29,10 @@ contact: # displayed in header
         text: /ricardosousa93
         icon: facebook-square
         url: https://www.facebook.com/ricardosousa93
-    steam:
-        text: /id/unrea1
-        icon: steam-square
-        url: http://steamcommunity.com/id/unrea1/
+#    steam:
+#        text: /id/unrea1
+#        icon: steam-square
+#        url: http://steamcommunity.com/id/unrea1/
 
 # Build settings
 markdown: kramdown
