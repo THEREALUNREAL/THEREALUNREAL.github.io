@@ -14,27 +14,22 @@ permalink: /about/
  
 <font size="6">Skills</font>
 
-- _Level Design_  - SourceSDK expert, trying new engines as I go such as Unity
-- _3D modelling_  - I use Blender for 3D
-- _2D art_        - I use mostly Photoshop for 2D art
-- _Programming_   - I C#
-- _Animating_     - I'm familiar with many different animation softwares
-- _Planning_      - I like to plan ahead
-- _Prototyping_   - I like to prototype stuff before investing too much time into it
+-_Level Design_  - SourceSDK expert, trying new engines as I go such as Unity
+-_3D modelling_  - I use Blender for 3D
+-_2D art_        - I use mostly Photoshop for 2D art
+-_Programming_   - I C#
+-_Animating_     - I'm familiar with many different animation softwares
+-_Planning_      - I like to plan ahead
+-_Prototyping_   - I like to prototype stuff before investing too much time into them
 
 <font size="6">Achievements:</font>
 
-_1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
-
-_1st Place_ (100$ prize) - <a href="http://gamebanana.com/contests/winners/31">Winter Wonderland Mapping Contest</a> with DE_ColdBlow [CS:GO]
-
-_1st Place_ (90$ prize) - <a href="http://gamebanana.com/contests/winners/23">Junkyard Mapping Contest</a> with DE_Junkyard [CS:GO]
-
-_2nd Place_ (40$ prize) - <a href="http://gamebanana.com/contests/winners/8">Halloween Mapping Contest</a> with KOTH_Haunted_Fall [TF2]
-
-_3rd Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/4">TF2 D.U.M.B Mapping Contest</a> with CTF_Resources [TF2]
-
-_4th Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/16">Kepler 22-B Mapping Contest</a> with KOTH_Spaaaace [TF2]
+-_1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
+-_1st Place_ (100$ prize) - <a href="http://gamebanana.com/contests/winners/31">Winter Wonderland Mapping Contest</a> with DE_ColdBlow [CS:GO]
+-_1st Place_ (90$ prize) - <a href="http://gamebanana.com/contests/winners/23">Junkyard Mapping Contest</a> with DE_Junkyard [CS:GO]
+-_2nd Place_ (40$ prize) - <a href="http://gamebanana.com/contests/winners/8">Halloween Mapping Contest</a> with KOTH_Haunted_Fall [TF2]
+-_3rd Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/4">TF2 D.U.M.B Mapping Contest</a> with CTF_Resources [TF2]
+-_4th Place_ (15$ prize) - <a href="http://gamebanana.com/contests/winners/16">Kepler 22-B Mapping Contest</a> with KOTH_Spaaaace [TF2]
 
 
 Thanks for checking out my portfolio!
