@@ -11,11 +11,17 @@ permalink: /about/
 I also like to go on game related events such as gamejams or lan tournaments.
   
 <font size="6">Skills</font>
+
 - Adobe Photoshop
+
 - Blender
+
 - Source SDK
+
 - Unity
+
 - GameMaker Studio
+
 
 <font size="6">Achievements:</font>
 
