@@ -14,12 +14,12 @@ permalink: /about/
  
 <font size="6">Skills</font>
 
-- Level Design
-- 3D Modelling
-- 2D Art
-- Programming
-- Animating
-- Planning
+- Level Design  - SourceSDK expert, trying new engines as I go such as Unity
+- 3D modelling  - I use Blender for 3D
+- 2D art        - I use mostly Photoshop for 2D art
+- Programming   - I C#
+- Animating     - I'm familiar with many different animation softwares
+- Planning      - I like to plan ahead
 
 <font size="6">Achievements:</font>
 
