@@ -6,7 +6,7 @@ permalink: /about/
 
 [![A picture of me](/images/avatar2.jpg)](/images/avatar2.jpg){: .portrait}
 
-<font size="6">Hey!</font> <p>I'm <b>Ricardo Sousa</b>, I'm from Portugal and I enjoy creating games. I like most areas of game design, but my biggest passion has always been to create both fun and good looking levels! I've been to animation school for 2 years in University of Algarve, but later decided to follow something else more game design focused in ETIC_Algarve. I enjoy both creating and playing games, it's what I've been doing for most of my life.  I started creating levels for Source engine games around 2006 when I got a computer that could run Counter-Strike, since then I've tried new games, new tools and expanded my knowledge into other game dev fields such as animation, 3D modelling and programming.
+<font size="6">Hey!</font> <p>My name is <b>Ricardo Sousa</b>, I'm from Portugal and I enjoy creating games. I like most areas of game design, but my biggest passion has always been to create both fun and good looking levels! I've been to animation school for 2 years in University of Algarve, but later decided to follow a more game design focused course in ETIC_Algarve. I enjoy both creating and playing games, it's what I've been doing for most of my life.  I started creating levels for Source engine games around 2006 when I got a computer that could run Counter-Strike, since then I've tried new games, new tools and expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.
   
 I also like to go on game related events such as gamejams or lan tournaments.
   
