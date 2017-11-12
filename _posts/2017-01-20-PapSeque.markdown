@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Pap-Sêque (GameJam)"
+date:   2017-05-20 21:51:56 +0100
+category: "Other projects"
+image: /images/papseque.jpg
+icon: /images/icons/unity.png
+---
+
+**PapSeque** was created during the ETIC_Algarve 2017 Game Jam. The game got the "Best Game" award for the event, the team synergized really well and made for a great time full of creativity and fun.
+
+Shoutout to the team (left to right):
+- **Francisco Santos** as 2D Artist 
+- **Cátia Carvalho** as U.I. artist
+- **Tomás Viegas** as Sound Designer
+- **Ricardo Sousa** (me) as Programmer 
+- **Teresa Cardoso** as 2D Artist and Animator
+
+[![Murmur #1]({{ site.url }}/images/murmur_unity/team.jpg)]({{ site.url }}/images/murmur_unity/team.jpg)
