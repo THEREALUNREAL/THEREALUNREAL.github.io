@@ -16,4 +16,5 @@ Shoutout to the team (left to right):
 - **Ricardo Sousa** (me) as Programmer 
 - **Teresa Cardoso** as 2D Artist and Animator
 
-[![Murmur #1]({{ site.url }}/images/papseque_unity/team.jpg)]({{ site.url }}/images/papseque_unity/team.jpg)
+[![PapSeque #1]({{ site.url }}/images/papseque_unity/team.jpg)]({{ site.url }}/images/papseque_unity/team.jpg)
+[![PapSeque #2]({{ site.url }}/images/papseque_unity/papseque_ss1.png)]({{ site.url }}/images/papseque_unity/papseque_ss1.png)
