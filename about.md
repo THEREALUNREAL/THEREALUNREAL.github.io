@@ -12,10 +12,10 @@ permalink: /about/
 <p> </p>
 <p> </p>
 <p> </p>
-<p>I'm also somewhat of a competitive guy and like to go on game related events such as gamejams, lan tournaments and love participating in level design contests!</p>
+<p>I enjoy going to games related events such as gamejams, lan tournaments and love participating in level design contests!</p>
   
  
-<font size="6">Skills</font>
+<font size="6">Skills:</font>
 
 - _Level Design_  - SourceSDK expert, trying new engines as I go, such as Unity
 - _3D modelling_  - I use Blender for 3D
