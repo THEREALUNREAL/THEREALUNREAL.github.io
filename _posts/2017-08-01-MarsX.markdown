@@ -7,8 +7,8 @@ image: /images/marsx.jpg
 icon: /images/icons/unity.png
 ---
 
-**MarsX** was a team project I was part of for the LudumDare 39. I joined a group of awesome people in Dengun Web Agency for a great 3 day of experience of brainstorming, work, fun, and ridiculous amounts of fast food!
+**MarsX** was a team project I was part of for the LudumDare 39. I joined a group of awesome people in Dengun Web Agency for a great 3 day of experience of work, fun, and ridiculous amounts of fast food!
 
-The game can be played here: https://bumany.itch.io/marsx
+The game can be played <a href="https://bumany.itch.io/marsx"> here</a>.
 
 [![MarsX #1]({{ site.url }}/images/marsx_unity/team.jpg)]({{ site.url }}/images/marsx_unity/team.jpg)
