@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pap-Sêque (GameJam)"
-date:   2017-05-20 21:51:56 +0100
+date:   2017-06-12 21:51:56 +0100
 category: "Other projects"
 image: /images/papseque.jpg
 icon: /images/icons/unity.png
