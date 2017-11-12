@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Murmur // Programmed in C#"
+title:  "Murmur (GameJam)"
 date:   2017-01-20 21:51:56 +0100
 category: "Other projects"
 image: /images/murmur.jpg
