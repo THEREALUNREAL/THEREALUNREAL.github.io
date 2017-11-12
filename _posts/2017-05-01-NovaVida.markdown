@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Ganha uma nova vida - ETIC_Algarve's campaign"
+date:   2017-06-12 21:51:56 +0100
+category: "Other projects"
+image: /images/atrevete.jpg
+icon: /images/icons/unity.png
+---
+
+ETIC_Algarve came up with the idea of creating a game for their new school year campaign "Ganha uma nova vida" (stands for "earn a new life"). Me and 3 more class mates were challenged to come up with a game that would displayed on the schools website. The idea worked pretty well and we managed to create a fun little game for our school and the campaign was a success.
