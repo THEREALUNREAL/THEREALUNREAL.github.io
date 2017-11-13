@@ -10,7 +10,7 @@ permalink: /about/
 <p>I enjoy both making and playing games. I started creating levels for Counter-Strike around 2006, since then I've tried new games, new tools and expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.</p>
 <p>I enjoy going to games related events such as gamejams, lan tournaments and love participating in level design contests!</p>
   
-<br></br>
+  
 <font size="6">Skills:</font>
 
 - _Level Design_  - SourceSDK expert, trying new engines as I go, such as Unity
