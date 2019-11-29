@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Dakar 18"
+date:   2018-9-25 00:00:00 +0100
+category: "3D/LevelDesign"
+image: /images/dakar18.jpg
+icon: /images/icons/eu4.png
+---
+
+Had the pleasure to work with an excelent team of over 40 people on the environments of this very ambitious game. 
