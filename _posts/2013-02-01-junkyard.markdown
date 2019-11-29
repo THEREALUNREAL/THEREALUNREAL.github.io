@@ -5,6 +5,7 @@ date:   2013-02-01 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/junkyard.jpg
 icon: /images/icons/csgo.png
+award: true
 ---
 
 **JUNKYARD** was my first experience with CS:GO mapping and the new upgrade to Source Engine. It was also an entry for the "Junkyard Mapping Contest" in which it placed first.
