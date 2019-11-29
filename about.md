@@ -6,8 +6,8 @@ permalink: /about/
 
 [![A picture of me](/images/portrait_final.jpg)](/images/portrait_final.jpg){: .portrait}
 
-<font size="6">Hey!</font> <p>My name is <b>Ricardo Sousa</b>, I'm from Portugal and I enjoy creating games. I like most areas of game design, but my biggest passion has always been to create both fun and good looking levels! I've been to animation school for 2 years in University of Algarve, but later decided to follow a more game design focused course in ETIC_Algarve.</p>
-<p>I enjoy both making and playing games. I started creating levels for Counter-Strike around 2006, since then I've tried new games, new tools and expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.</p>
+<font size="6">Hey!</font> <p>My name is <b>Ricardo Sousa</b>, I'm from Portugal and I enjoy creating games. I like most areas of game design, but my biggest passion has always been to create levels! I've been to animation school for 2 years in University of Algarve, but later decided to follow a more game design focused course in ETIC_Algarve.</p>
+<p>I started creating levels for Counter-Strike around 2006, since then I've tried new games, new tools and expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.</p>
 <p>I enjoy going to games related events such as gamejams, lan tournaments and love participating in level design contests!</p>
   
   
