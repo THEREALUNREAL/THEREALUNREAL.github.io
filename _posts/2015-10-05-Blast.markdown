@@ -5,6 +5,7 @@ date:   2015-10-05 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/blast.jpg
 icon: /images/icons/csgo.png
+award: true
 ---
 
 **DE_Blast** is a CS:GO map set on an underground military base in the desert.
