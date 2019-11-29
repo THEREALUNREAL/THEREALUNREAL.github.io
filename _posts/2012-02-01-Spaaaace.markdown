@@ -5,6 +5,7 @@ date:   2012-02-01 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/spaaaace.jpg
 icon: /images/icons/tf2.png
+award: true
 ---
 
 **KOTH_SPAAAACE** is a Team Fortress 2 King of the Hill space themed map, the first of it's kind!
