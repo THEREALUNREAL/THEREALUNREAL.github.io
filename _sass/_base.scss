@@ -120,3 +120,14 @@ footer, footer a {
   text-align: center;
   clear: both;
 }
+.award-icon {
+  height: 1.5em;
+  width: 1.5em;
+  position: absolute;
+  right: 1em; 
+  bottom: 1em;
+  font-size: 16pt;
+  padding: .5em;
+  background: rgba(0,0,0,.5);
+  fill: #fff;
+}
