@@ -121,13 +121,14 @@ footer, footer a {
   clear: both;
 }
 .award-icon {
-  height: 1.5em;
-  width: 1.5em;
-  position: absolute;
-  right: 1em; 
-  bottom: 1em;
-  font-size: 16pt;
-  padding: .5em;
-  background: rgba(0,0,0,.5);
-  fill: #fff;
+    height: 3em;
+    width: 3em;
+    position: absolute;
+    right: 1em;
+    top: 1em;
+    font-size: 16pt;
+    /* padding: .5em; */
+    /* background: rgba(0,0,0,0.4); */
+    fill: #f5bc52;
+    filter: drop-shadow(0 2px 2px rgba(0,0,0,1));
 }
