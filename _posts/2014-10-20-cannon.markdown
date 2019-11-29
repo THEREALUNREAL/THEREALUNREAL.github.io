@@ -1,3 +1,4 @@
+/*
 ---
 layout: post
 title:  "Cannon model"
@@ -8,3 +9,4 @@ icon: /images/icons/blender.png
 ---
 
 This cannon model was my first modelling experience from University. It's not the best looking one but it was a nice first experience with Blender and 3D in general.
+*/
