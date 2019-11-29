@@ -5,6 +5,7 @@ date:   2014-02-01 21:51:56 +0100
 category: "3D/LevelDesign"
 image: /images/warmblow.jpg
 icon: /images/icons/csgo.png
+award: true
 ---
 
 **WARMBLOW** is a remastered version of one of my contest winning entries called ColdBlow. 
