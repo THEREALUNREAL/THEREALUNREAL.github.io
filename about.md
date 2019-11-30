@@ -10,10 +10,12 @@ permalink: /about/
 <p>I started creating levels for Counter-Strike around 2006, since then I've expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.</p>
 <p>I've had the honor and luck of working with many talented people in various projects, remotely and locally.</p>
 
-
-[![Blast #1]({{ site.url }}/images/software/unreal.png)]({{ site.url }}/images/software/unreal.png)
-
-<img src="{{ site.url }}/images/software/unreal.png" alt="unreal">
+<img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
+<img src="{{ site.url }}/images/software/unity.png" alt="Unity"> Unity
+<img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
+<img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
+<img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
+<img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop
 
 <font size="6">Achievements:</font>
 
