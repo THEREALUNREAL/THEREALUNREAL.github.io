@@ -134,3 +134,13 @@ footer, footer a {
     fill: #f5bc52;
     filter: drop-shadow(0 2px 2px rgba(0,0,0,1));
 }
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 16.66%;
+  padding: 4px;
+}
