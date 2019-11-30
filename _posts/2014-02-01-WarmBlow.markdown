@@ -8,9 +8,10 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-**WARMBLOW** is a remastered version of one of my contest winning entries called ColdBlow. 
+WARMBLOW is the warm remake of Coldblow that _placed 1st_ on the <a href="http://gamebanana.com/contests/winners/31">GameBanana Winter Wonderland Mapping Contest</a>. With this remake I decided to release both a bomb defusal (as originally intended) and a new hostage version, as the map offered good conditions to be adapted to that gamemode. This version was also an improvement to both visuals and performance.
 
-This map is an improvement on both performance and aesthetics of the older version. It features a new warmer theme and more detail.
+You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=199651111">Warmblow on the Steam Workshop</a>.
 
 [![WarmBlow #1]({{ site.url }}/images/warmblow/cs_warmblow_beta010038.jpg)]({{ site.url }}/images/warmblow/cs_warmblow_beta010038.jpg)
+<hr>
 [![WarmBlow #2]({{ site.url }}/images/warmblow/warmblow321.jpg)]({{ site.url }}/images/warmblow/warmblow321.jpg)
