@@ -3,19 +3,18 @@ layout: page
 title: About & Resume
 permalink: /about/
 ---
-
-[![A picture of me](/images/portrait_final.jpg)](/images/portrait_final.jpg){: .portrait}
+<div>[![A picture of me](/images/portrait_final.jpg)](/images/portrait_final.jpg){: .portrait}
 
 <font size="6">Hey!</font> <p>My name is <b>Ricardo Sousa</b>, I'm from Portugal and I enjoy creating games. I like most areas of game design, but my biggest passion has always been to create levels! I've been to animation school for 2 years in University of Algarve, but later decided to follow a more game design focused course in ETIC_Algarve.</p>
 <p>I started creating levels for Counter-Strike around 2006, since then I've expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.</p>
-<p>I've had the honor and luck of working with many talented people in various projects, remotely and locally.</p>
-
-<img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
+<p>I've had the honor and luck of working with many talented people in various projects, remotely and locally.</p></div>
+<font size="6">Skills:</font>
+<div><img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
 <img src="{{ site.url }}/images/software/unity.png" alt="Unity"> Unity
 <img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
 <img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
 <img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
-<img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop
+<img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop</div>
 
 <font size="6">Achievements:</font>
 
