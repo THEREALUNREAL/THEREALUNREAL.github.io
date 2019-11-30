@@ -10,6 +10,11 @@ permalink: /about/
 <p>I started creating levels for Counter-Strike around 2006, since then I've expanded my knowledge into other areas of game development such as animation, 3D modelling and programming.</p>
 <p>I've had the honor and luck of working with many talented people in various projects, remotely and locally.</p>
 
+
+[![Blast #1]({{ site.url }}/images/software/unreal.png)]({{ site.url }}/images/software/unreal.png)
+
+<img src="{{ site.url }}/images/software/unreal.png" alt="unreal">
+
 <font size="6">Achievements:</font>
 
 - _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
