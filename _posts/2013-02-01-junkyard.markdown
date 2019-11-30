@@ -8,7 +8,7 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-_JUNKYARD placed 1st on the <a href="http://gamebanana.com/contests/winners/23">GameBanana Junkyard Mapping Contest</a>_. It is a demolition map located on a junkyard.
+JUNKYARD _placed 1st_ on the <a href="http://gamebanana.com/contests/winners/23">GameBanana Junkyard Mapping Contest</a>. It is a symmetrical demolition map located on a junkyard, with a 2 level bombsite in the center.
 
 [![Junkyard #1]({{ site.url }}/images/junkyard/junkyard_1.jpg)]({{ site.url }}/images/junkyard/junkyard_1.jpg)
 <hr>
