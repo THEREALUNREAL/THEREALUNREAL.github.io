@@ -20,28 +20,28 @@ permalink: /about/
 <br>
 
 <font size="6">Software:</font>
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <div><img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
-    </div>
-    <div class="col-sm">
-  <img src="{{ site.url }}/images/software/unity.png" alt="Unity"> Unity
-    </div>
-    <div class="col-sm">
-  <img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
-    </div>
-    <div class="col-sm">
-  <img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
-    </div>
-    <div class="col-sm">
-  <img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
-    </div>
-    <div class="col-sm">
-  <img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop</div>
-    </div>
+
+<div class="row">
+  <div class="column">
+    <div><img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
+  </div>
+  <div class="column">
+<img src="{{ site.url }}/images/software/unity.png" alt="Unity"> Unity
+  </div>
+  <div class="column">
+<img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
+  </div>
+  <div class="column">
+<img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
+  </div>
+  <div class="column">
+<img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
+  </div>
+  <div class="column">
+<img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop</div>
   </div>
 </div>
+  
 <font size="6">Achievements:</font>
 
 - _1st Place_ (150$ prize) - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
