@@ -8,9 +8,13 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-**DE_Blast** is a CS:GO map set on an underground military base in the desert.
+BLAST _placed 1st_ on the <a href="https://gamebanana.com/contests/winners/69">GameBanana Beneath the Dust Mapping Contest</a>. It is a demolition map, located in a military bunker under the sands of Dust.
 
-It was created as an entry for the "_Beneath the Dust Mapping Competition_".
+You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=529733812">Blast on the Steam Workshop</a>.
 
-[![Blast #1]({{ site.url }}/images/blast/de_blast_beta010007.jpg)]({{ site.url }}/images/blast/de_blast_beta010007.jpg)
-[![Blast #2]({{ site.url }}/images/blast/de_blast_beta010020.jpg)]({{ site.url }}/images/blast/de_blast_beta010020.jpg)
+[![Blast #1]({{ site.url }}/images/blast/blast_1.jpg)]({{ site.url }}/images/blast/blast_1.jpg)
+<hr>
+[![Blast #2]({{ site.url }}/images/blast/blast_2.jpg)]({{ site.url }}/images/blast/blast_2.jpg)
+<hr>
+[![Blast #3]({{ site.url }}/images/blast/blast_3.jpg)]({{ site.url }}/images/blast/blast_3.jpg)
+
