@@ -15,4 +15,3 @@ JUNKYARD _placed 1st_ on the <a href="http://gamebanana.com/contests/winners/23"
 [![Junkyard #2]({{ site.url }}/images/junkyard/junkyard_2.jpg)]({{ site.url }}/images/junkyard/junkyard_2.jpg)
 <hr>
 [![Junkyard #3]({{ site.url }}/images/junkyard/junkyard_3.jpg)]({{ site.url }}/images/junkyard/junkyard_3.jpg)
-<hr>
