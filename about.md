@@ -31,6 +31,8 @@ permalink: /about/
   <div class="column">
     <img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
   </div>
+</div>
+<div class="row">
   <div class="column">
     <img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
   </div>
@@ -38,7 +40,7 @@ permalink: /about/
     <img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
   </div>
   <div class="column">
-    <img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop</div>
+    <img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop
   </div>
 </div>
   
