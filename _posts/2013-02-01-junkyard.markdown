@@ -10,6 +10,8 @@ award: true
 
 JUNKYARD _placed 1st_ on the <a href="http://gamebanana.com/contests/winners/23">GameBanana Junkyard Mapping Contest</a>. It is a symmetrical demolition map located on a junkyard, with a 2 level bombsite in the center.
 
+You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=125612157">Junkyard on the Steam Workshop</a>.
+
 [![Junkyard #1]({{ site.url }}/images/junkyard/junkyard_1.jpg)]({{ site.url }}/images/junkyard/junkyard_1.jpg)
 <hr>
 [![Junkyard #2]({{ site.url }}/images/junkyard/junkyard_2.jpg)]({{ site.url }}/images/junkyard/junkyard_2.jpg)
