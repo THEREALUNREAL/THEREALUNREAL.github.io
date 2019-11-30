@@ -8,3 +8,10 @@ icon: /images/icons/ue4.png
 ---
 
 Had the pleasure to work with an excelent team of over 40 people on the environments of this very ambitious game. 
+
+[![Dakar 18 #1]({{ site.url }}/images/dakar18/dakar18_1.jpg)]
+
+[![Dakar 18 #2]({{ site.url }}/images/dakar18/dakar18_2.jpg)]
+
+[![Dakar 18 #3]({{ site.url }}/images/dakar18/dakar18_3.jpg)]
+
