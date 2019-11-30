@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class="row">
   <div class="column">
-    <img src="/images/portrait_final.jpg" alt="Me" style="width:100%">
+    <img src="/images/portrait_final.jpg" alt="Me" style="width:30%">
   </div>
   <div class="column">
     test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
