@@ -23,22 +23,22 @@ permalink: /about/
 
 <div class="row">
   <div class="column">
-    <div><img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
+    <img src="{{ site.url }}/images/software/unreal.png" alt="Unreal"> Unreal Engine
   </div>
   <div class="column">
-<img src="{{ site.url }}/images/software/unity.png" alt="Unity"> Unity
+    <img src="{{ site.url }}/images/software/unity.png" alt="Unity"> Unity
   </div>
   <div class="column">
-<img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
+    <img src="{{ site.url }}/images/software/source.png" alt="Source"> Source
   </div>
   <div class="column">
-<img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
+    <img src="{{ site.url }}/images/software/blender.png" alt="Blender"> Blender
   </div>
   <div class="column">
-<img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
+    <img src="{{ site.url }}/images/software/substance_painter.png" alt="Substance Painter"> Substance Painter
   </div>
   <div class="column">
-<img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop</div>
+    <img src="{{ site.url }}/images/software/photoshop.png" alt="Photoshop"> Photoshop</div>
   </div>
 </div>
   
