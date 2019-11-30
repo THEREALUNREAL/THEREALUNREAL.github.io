@@ -8,7 +8,11 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-**JUNKYARD** was my first experience with CS:GO mapping and the new upgrade to Source Engine. It was also an entry for the "Junkyard Mapping Contest" in which it placed first.
+_JUNKYARD placed 1st on the <a href="http://gamebanana.com/contests/winners/23">GameBanana Junkyard Mapping Contest</a>_. It is a demolition map located on a junkyard.
 
-[![Junkyard #1]({{ site.url }}/images/junkyard/de_junkyard_beta060042.jpg)]({{ site.url }}/images/junkyard/de_junkyard_beta060042.jpg)
-[![Junkyard #2]({{ site.url }}/images/junkyard/de_junkyard_beta060044.jpg)]({{ site.url }}/images/junkyard/de_junkyard_beta060044.jpg)
+[![Junkyard #1]({{ site.url }}/images/junkyard/junkyard_1.jpg)]({{ site.url }}/images/junkyard/junkyard_1.jpg)
+<hr>
+[![Junkyard #2]({{ site.url }}/images/junkyard/junkyard_2.jpg)]({{ site.url }}/images/junkyard/junkyard_2.jpg)
+<hr>
+[![Junkyard #3]({{ site.url }}/images/junkyard/junkyard_3.jpg)]({{ site.url }}/images/junkyard/junkyard_3.jpg)
+<hr>
