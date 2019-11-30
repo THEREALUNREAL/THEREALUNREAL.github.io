@@ -16,6 +16,9 @@ This version was also an improvement to both visuals and performance.
 
 You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=199651111">Warmblow on the Steam Workshop</a>.
 
-[![WarmBlow #1]({{ site.url }}/images/warmblow/cs_warmblow_beta010038.jpg)]({{ site.url }}/images/warmblow/cs_warmblow_beta010038.jpg)
+[![WarmBlow #1]({{ site.url }}/images/warmblow/warmblow_1.jpg)]({{ site.url }}/images/warmblow/warmblow_1.jpg)
 <hr>
-[![WarmBlow #2]({{ site.url }}/images/warmblow/warmblow321.jpg)]({{ site.url }}/images/warmblow/warmblow321.jpg)
+[![WarmBlow #2]({{ site.url }}/images/warmblow/warmblow_2.jpg)]({{ site.url }}/images/warmblow/warmblow_2.jpg)
+<hr>
+[![WarmBlow #3]({{ site.url }}/images/warmblow/warmblow_3.jpg)]({{ site.url }}/images/warmblow/warmblow_3.jpg)
+<hr>
