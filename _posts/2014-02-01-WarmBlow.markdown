@@ -8,7 +8,7 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-WARMBLOW is the warm remake of Coldblow that _placed 1st_ on the <a href="http://gamebanana.com/contests/winners/31">GameBanana Winter Wonderland Mapping Contest</a>. With this remake I decided to release both a bomb defusal (as originally intended) and a new hostage version, as the map offered good conditions to be adapted to that gamemode. 
+WARMBLOW is the warm remake of Coldblow that _placed 1st_ in the <a href="http://gamebanana.com/contests/winners/31">GameBanana Winter Wonderland Mapping Contest</a>. With this remake I decided to release both a bomb defusal (as originally intended) and a new hostage version, as the map offered good conditions to be adapted to that gamemode. 
 
 One of the most unique features of this level is the dynamic chair lifts, that the players spawning outside can use to get to get access to the roof. It's an high risk - high reward path that can make for some fun moments.
 
@@ -21,4 +21,3 @@ You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id
 [![WarmBlow #2]({{ site.url }}/images/warmblow/warmblow_2.jpg)]({{ site.url }}/images/warmblow/warmblow_2.jpg)
 <hr>
 [![WarmBlow #3]({{ site.url }}/images/warmblow/warmblow_3.jpg)]({{ site.url }}/images/warmblow/warmblow_3.jpg)
-<hr>

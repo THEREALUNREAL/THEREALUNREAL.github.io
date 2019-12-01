@@ -3,6 +3,7 @@ $color-em: #f5bc52;
 html,body {
   margin: 0;
   font-family: $base-font-family;
+  text-align: justify;
   background: #1e1e1e;
   color: #ffffff;
 }
@@ -135,12 +136,24 @@ footer, footer a {
     filter: drop-shadow(0 2px 2px rgba(0,0,0,1));
 }
 
-
 .row {
   display: flex;
 }
 
 .column {
+  padding: 8px;
+  text-align: justify;
+}
+
+#software .row {
+  display: flex;
+  white-space: nowrap;
+}
+
+#software .column {
   flex: 16.66%;
   padding: 4px;
+  * {
+    vertical-align: middle;
+  }
 }

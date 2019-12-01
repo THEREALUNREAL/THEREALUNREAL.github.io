@@ -8,7 +8,7 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-JUNKYARD _placed 1st_ on the <a href="http://gamebanana.com/contests/winners/23">GameBanana Junkyard Mapping Contest</a>. It is a symmetrical demolition map located on a junkyard, with a 2 level bombsite in the center.
+JUNKYARD _placed 1st_ in the <a href="http://gamebanana.com/contests/winners/23">GameBanana Junkyard Mapping Contest</a>. It is a symmetrical demolition map located in a junkyard, with a 2 level bombsite in the center.
 
 You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=125612157">Junkyard on the Steam Workshop</a>.
 
