@@ -7,7 +7,9 @@ image: /images/dakar18.jpg
 icon: /images/icons/ue4.png
 ---
 
-Had the pleasure to work with an excelent team of over 40 people on the environments of this very ambitious game. 
+Joined Bigmoon Entertainment in Porto, Portugal, at the begining of the year of 2018, and started working on the environments of Dakar 18 using Unreal Engine 4. Dakar 18 was a very ambitious project and a massive challenge for the studio. I've learned a lot from this experience and have expanded my knowledge of UE4 and other things.
+
+The map is huge and is based off part of Peru, Bolivia and Argentina. The tracks and roadbooks are replicas of the official ones that were used on Dakar 18 adapted to our scale.
 
 [![Dakar 18 #1]({{ site.url }}/images/dakar18/dakar18_1.jpg)]({{ site.url }}/images/dakar18/dakar18_1.jpg)
 <hr>

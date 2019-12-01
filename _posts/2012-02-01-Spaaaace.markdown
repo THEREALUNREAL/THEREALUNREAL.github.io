@@ -8,7 +8,8 @@ icon: /images/icons/tf2.png
 award: true
 ---
 
-**KOTH_SPAAAACE** is a Team Fortress 2 King of the Hill space themed map, the first of it's kind!
+KOTH_SPAAAACE _placed 4th_ in the <a href="https://gamebanana.com/contests/winners/16">GameBanana Kepler 22-B Mapping Contest</a>. This map is a Team Fortress 2 King Of The Hill map set in space, the first of it's kind!
 
 [![Spaaaace #1]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010003.jpg)]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010003.jpg)
+<hr>
 [![Spaaaace #2]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010002.jpg)]({{ site.url }}/images/spaaaace/koth_spaaaace_beta_010002.jpg)

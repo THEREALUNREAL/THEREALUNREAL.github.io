@@ -7,4 +7,4 @@ image: /images/demons_age.jpg
 icon: /images/icons/unity.png
 ---
 
-Worked on a few assets for this game during the summer of 2019 with *Bigmoon Entertainment*.
+Worked on a few assets for this game during the summer of 2019 while with *Bigmoon Entertainment*.

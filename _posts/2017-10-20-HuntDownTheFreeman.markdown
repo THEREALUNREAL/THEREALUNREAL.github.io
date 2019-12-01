@@ -7,4 +7,4 @@ image: /images/hdtf.jpg
 icon: /images/icons/sourcehd.png
 ---
 
-Been working with **Royal Rudius Entertainment** on the "Hunt Down The Freeman" Source engine game, as Senior Level Designer. As of now I can't show much since the game is still in development, but it will be releasing on Steam fairly soon! _fingers crossed_
+Worked with **Royal Rudius Entertainment** on "Hunt Down The Freeman". I was in charge of creating some of the levels of the game. The game was far from being a success, but it was a decent learning experience for me. I learned a lot about the game dev world and was fortunate enough to get a job on a different studio a few months before release of HDTF.

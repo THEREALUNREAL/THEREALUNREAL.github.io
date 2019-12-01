@@ -21,14 +21,14 @@ contact: # displayed in header
         text: ricardodesousa.info@gmail.com
         icon: envelope # see https://fortawesome.github.io/Font-Awesome/icons/
         url: mailto:ricardodesousa.info@gmail.com
+    linkedin:
+        text: /ricardosousa93
+        icon: linkedin-square
+        url: https://www.linkedin.com/in/ricardosousa93/
     twitter:
         text: /therealunreal
         icon: twitter-square
         url: https://twitter.com/THEREALUNREAL
-    facebook:
-        text: /ricardosousa93
-        icon: linkedin-square
-        url: https://www.linkedin.com/in/ricardosousa93/
 #    steam:
 #        text: /id/unrea1
 #        icon: steam-square
