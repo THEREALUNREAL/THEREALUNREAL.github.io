@@ -7,7 +7,12 @@ image: /images/portugal.jpg
 icon: /images/icons/csgo.png
 ---
 
-**DE_Portugal** is a CS:GO map inspired by my countries typical village architecture. It's a colorful map with lots of references to portuguese culture.
+**DE_Portugal** is a CS:GO map inspired by my country's typical village architecture. It's a colorful map filled with lots of references to the portuguese culture.
+
+It was by far my most well received map, counting with about 60,000 subscribers on the Steam Workshop and over 120,000 unique visitors.
+
+You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=842297085">DE_Portugal on the Steam Workshop</a>.
 
 [![Portugal #1]({{ site.url }}/images/portugal/image1.jpg)]({{ site.url }}/images/portugal/image1.jpg)
+<hr>
 [![Portugal #2]({{ site.url }}/images/portugal/image2.jpg)]({{ site.url }}/images/portugal/image2.jpg)
