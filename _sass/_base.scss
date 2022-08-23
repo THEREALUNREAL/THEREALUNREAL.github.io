@@ -19,11 +19,11 @@ em {
 i.fa { margin-right: 6px; }
 
 banner {
-  padding: 10px 0px;
+  display: block;
   width: 300px;
-  height: auto;
+  height: 300px;
   position: absolute;
-  right: 1em;
+  right: 0;
   
   img {
     width: 256px;
