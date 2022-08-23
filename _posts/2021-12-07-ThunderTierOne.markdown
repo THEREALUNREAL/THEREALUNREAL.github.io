@@ -7,7 +7,7 @@ image: /images/thundertierone.jpg
 icon: /images/icons/ue4.png
 award: false
 banner: true
-bannerimg: /images/icons/tf2.png
+bannerimg: /images/logo_thundertierone.png
 ---
 
 KOTH_HAUNTED_FALL _placed 2nd_ in the <a href="https://gamebanana.com/contests/winners/8">GameBanana Halloween Mapping Contest 2011</a>. This map is a Team Fortress 2 melee only King Of The Hill map, set inside a church haunted with ghosts.
