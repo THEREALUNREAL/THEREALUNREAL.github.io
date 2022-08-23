@@ -26,9 +26,13 @@ banner {
   right: 0;
   
   img {
+    display: block;
+    position: relative;
     width: 256px;
     height: auto;
-    vertical-align: middle;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-right: 1em;
   }
 }
 
