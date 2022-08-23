@@ -15,7 +15,7 @@ permalink: /about/
   </div>
 </div>
 
-<font size="6">Software:</font>
+<font size="6">Software</font>
 
 <div id="software">
   <div class="row">
@@ -42,7 +42,7 @@ permalink: /about/
   </div>
 </div>
 
-<font size="6">Achievements:</font>
+<font size="6">Awards</font>
 
 - _1st Place_ - <a href="http://gamebanana.com/contests/winners/69">Beneath the Dust Mapping Contest</a> with DE_Blast [CS:GO]
 - _1st Place_ - <a href="http://gamebanana.com/contests/winners/31">Winter Wonderland Mapping Contest</a> with DE_ColdBlow [CS:GO]
