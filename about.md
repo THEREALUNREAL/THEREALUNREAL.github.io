@@ -10,7 +10,7 @@ permalink: /about/
   </div>
   <div class="column">
     <font size="6">Oi!</font> <p>I am Ricardo Sousa, a game developer from Portugal passionate for games. I studied animation in the University of Algarve, and later  took a game design focused course in ETIC_Algarve where I've developed programming skills and kept improving my art. Even though I like doing a bit of everything in videogames, my focus professionally is Level Design and Game Design with a bit of Environment Art on the side.</p>
-    <p>I started creating levels for Counter-Strike at around 2006 when I first got my hands on the Source Engine, and until this day I've been doing it passionate as ever. I've amassed a lot of experience from seeing people play my maps on various online community servers, participating in forum discussions and mapping contests and modding projects.</p>
+    <p>I started creating levels for Counter-Strike at around 2006 when I first got my hands on the Source Engine, and until this day I've been doing it passionate as ever. I've amassed a lot of experience from seeing people play my maps on various online community servers, participating in forum discussions, mapping contests and modding projects.</p>
     <p>Today I feel blessed that I am able to make a living out of this.</p>
   </div>
 </div>
