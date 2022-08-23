@@ -6,7 +6,7 @@ permalink: /about/
 
 <div class="row">
   <div class="column">
-    <img src="/images/portrait_final.jpg" alt="Me">
+    <img src="/images/portrait_2022.jpg" alt="Me">
   </div>
   <div class="column">
     <font size="6">Oi!</font> <p>I am Ricardo Sousa, a game developer from Portugal passionate for games. I studied animation in the University of Algarve, and later  took a game design focused course in ETIC_Algarve where I've developed programming skills and kept improving my art. Even though I like doing a bit of everything in videogames, my focus professionally is Level Design and Game Design with a bit of Environment Art on the side.</p>
