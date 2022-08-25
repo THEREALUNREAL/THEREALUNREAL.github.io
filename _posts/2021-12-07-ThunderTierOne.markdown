@@ -17,14 +17,21 @@ src="https://www.youtube.com/watch?v=YVgFHnhc_yc">
 </iframe>
 
 I started as a Level Designer and Environment Artist, but seeing as we didn't have that big of a team dedicated to this project I also ended up having an hand on Game Design, outgame systems and some UI work even.
+
+[![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
+
 Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my -adopted- baby that I care for a lot.
 
 My main responsibility in the project was creating interesting levels for the campaign, COOP and PVP and dressing them. It was a great learning experience. The top-down genre wasn't totally new to me, I had played a couple different top-down games in my life so I understood some of the constraints and challenges that come with designing for this type of game. 
+
+[![TTO #3]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)
 
 On the levels side of things aside from designing and decorating these, I also had the oportunity to create all the destructible assets present in the game using Houdini. Something I had never done in my life and I'm glad I got a chance to explore here.
 
 
 I was pretty much involved in all the levels in some way or another. And while I'm not totally happy with all of them, I consider it was a success after seeing people play through them.
+
+[![TTO #2]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
 
 The game did surprisingly well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
 
@@ -40,8 +47,3 @@ The game did surprisingly well on release having an almost "Overwhelmingly Posit
 </video><video width="400" height="400" controls autoplay>
   <source src="/images/ThunderTierOne/gif4.mp4" type="video/mp4">
 </video>
-
-[![HauntedFall #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
-<hr>
-[![HauntedFall #2]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
-[![HauntedFall #2]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)
