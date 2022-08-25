@@ -12,10 +12,12 @@ bannerimg: /images/logo_thundertierone.png
 
 _Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where you play as an elite special operations team. I've had the pleasure and honor of being part of this project and working with a small but very talented and passionate team.
 
-I started as a Level Designer, but seeing as we didn't have that big of a team dedicated to this project I actually ended up doing a lot of the Environment Art as well, and as the project grew even more in scope I also ended up having an hand on Game Design, outgame systems and some UI work even.
-Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my adopted baby that I care deeply for.
+I started as a Level Designer and Environment Artist, but seeing as we didn't have that big of a team dedicated to this project I also ended up having an hand on Game Design, outgame systems and some UI work even.
+Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my -adopted- baby that I care for a lot.
 
-My main responsibility in the project was creating interesting levels for the campaign, COOP and PVP and dressing them. It was a great learning experience. The top-down genre wasn't totally new to me, I had played a couple different top-down games in my life and being a Level Designer afficionado I understood some of the constraints and challenges that come with designing for top-down. Still, nothing like getting your hands dirty and experiencing these challenges yourself.
+My main responsibility in the project was creating interesting levels for the campaign, COOP and PVP and dressing them. It was a great learning experience. The top-down genre wasn't totally new to me, I had played a couple different top-down games in my life so I understood some of the constraints and challenges that come with designing for this type of game. 
+
+On the levels side of things aside from designing and decorating these, I also had the oportunity to create all the destructible assets present in the game using Houdini. Something I had never done in my life and I'm glad I got a chance to explore here.
 
 
 I was pretty much involved in all the levels in some way or another. And while I'm not totally happy with all of them, I consider it was a success after seeing people play through them.
