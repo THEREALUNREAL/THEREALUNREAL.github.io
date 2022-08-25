@@ -22,7 +22,7 @@ On the levels side of things aside from designing and decorating these, I also h
 
 I was pretty much involved in all the levels in some way or another. And while I'm not totally happy with all of them, I consider it was a success after seeing people play through them.
 
-The game did surprisingly well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="[LINK](https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
+The game did surprisingly well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
 
 [![HauntedFall #1]({{ site.url }}/images/haunted/koth_haunted_fall_event0001.jpg)]({{ site.url }}/images/haunted/koth_haunted_fall_event0001.jpg)
 <hr>
