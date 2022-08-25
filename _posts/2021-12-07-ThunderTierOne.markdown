@@ -35,7 +35,7 @@ I was pretty much involved in all the levels in some way or another. And while I
 
 [![TTO #2]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
 
-The game did surprisingly well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
+The game did extremely well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
 
 <video width="400" height="400" controls autoplay>
   <source src="/images/ThunderTierOne/gif1.mp4" type="video/mp4">
