@@ -16,6 +16,8 @@ _Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where y
 src="https://www.youtube.com/watch?v=YVgFHnhc_yc">
 </iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-qL2oJrh7qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I started as a Level Designer and Environment Artist, but seeing as we didn't have that big of a team dedicated to this project I also ended up having an hand on Game Design, outgame systems and some UI work even.
 
 [![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
