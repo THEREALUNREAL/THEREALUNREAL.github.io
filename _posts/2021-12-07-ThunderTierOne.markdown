@@ -12,6 +12,10 @@ bannerimg: /images/logo_thundertierone.png
 
 _Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where you play as an elite special operations team. I've had the pleasure and honor of being part of this project and working with a small but very talented and passionate team.
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=YVgFHnhc_yc">
+</iframe>
+
 I started as a Level Designer and Environment Artist, but seeing as we didn't have that big of a team dedicated to this project I also ended up having an hand on Game Design, outgame systems and some UI work even.
 Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my -adopted- baby that I care for a lot.
 
@@ -24,6 +28,20 @@ I was pretty much involved in all the levels in some way or another. And while I
 
 The game did surprisingly well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
 
-[![HauntedFall #1]({{ site.url }}/images/haunted/koth_haunted_fall_event0001.jpg)]({{ site.url }}/images/haunted/koth_haunted_fall_event0001.jpg)
+<video width="320" height="240" controls>
+  <source src="/images/ThunderTierOne/gif1.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="/images/ThunderTierOne/gif2.mp4" type="video/mp4">
+</video>
+<video width="320" height="240" controls>
+  <source src="/images/ThunderTierOne/gif3.mp4" type="video/mp4">
+</video><video width="320" height="240" controls>
+  <source src="/images/ThunderTierOne/gif4.mp4" type="video/mp4">
+</video>
+
+[![HauntedFall #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
 <hr>
-[![HauntedFall #2]({{ site.url }}/images/haunted/koth_haunted_fall_event0005.jpg)]({{ site.url }}/images/haunted/koth_haunted_fall_event0005.jpg)
+[![HauntedFall #2]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
+[![HauntedFall #2]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)
