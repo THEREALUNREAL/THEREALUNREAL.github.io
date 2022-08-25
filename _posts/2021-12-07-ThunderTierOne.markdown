@@ -10,7 +10,17 @@ banner: true
 bannerimg: /images/logo_thundertierone.png
 ---
 
-KOTH_HAUNTED_FALL _placed 2nd_ in the <a href="https://gamebanana.com/contests/winners/8">GameBanana Halloween Mapping Contest 2011</a>. This map is a Team Fortress 2 melee only King Of The Hill map, set inside a church haunted with ghosts.
+_Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where you play as an elite special operations team. I've had the pleasure and honor of being part of this project and working with a small but very talented and passionate team.
+
+I started as a Level Designer, but seeing as we didn't have that big of a team dedicated to this project I actually ended up doing a lot of the Environment Art as well, and as the project grew even more in scope I also ended up having an hand on Game Design, outgame systems and some UI work even.
+Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my adopted baby that I care deeply for.
+
+My main responsibility in the project was creating interesting levels for the campaign, COOP and PVP and dressing them. It was a great learning experience. The top-down genre wasn't totally new to me, I had played a couple different top-down games in my life and being a Level Designer afficionado I understood some of the constraints and challenges that come with designing for top-down. Still, nothing like getting your hands dirty and experiencing these challenges yourself.
+
+
+I was pretty much involved in all the levels in some way or another. And while I'm not totally happy with all of them, I consider it was a success after seeing people play through them.
+
+The game did surprisingly well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="[LINK](https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
 
 [![HauntedFall #1]({{ site.url }}/images/haunted/koth_haunted_fall_event0001.jpg)]({{ site.url }}/images/haunted/koth_haunted_fall_event0001.jpg)
 <hr>
