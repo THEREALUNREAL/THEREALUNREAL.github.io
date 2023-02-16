@@ -36,11 +36,19 @@ The game did extremely well on release having an almost "Overwhelmingly Positive
   <source src="/images/ThunderTierOne/gif1.mp4" type="video/mp4">
 </video>
 
-<div id="comparison">
-  <figure style="background-image: '/images/ThunderTierOne/Maps2_600x200.gif'">
-    <div id="divisor" style="background-image: '/images/ThunderTierOne/SquadFiring_600x200.gif'"></div>
+<div id="comparison-thundert-tier-one-1">
+  <figure style="background-image: url('/images/ThunderTierOne/Maps2_600x200.gif')">
+    <div id="divisor" style="background-image: url('/images/ThunderTierOne/SquadFiring_600x200.gif')"></div>
   </figure>
-  <input type="range" min="0" max="100" value="50" id="slider" oninput="moveDivisor()">
+  <input type="range" min="0" max="100" value="50" id="slider-thundert-tier-one-1" oninput="moveDivisor()">
+  <script>
+    var divisor = document.getElementById("comparison-thundert-tier-one-1"),
+    slider = document.getElementById("slider-thundert-tier-one-1");
+
+    function moveDivisor() {
+      divisor.style.width = slider.value + "%";
+    }
+  </script>
 </div>
 
 <video width="400" height="400" controls autoplay>
