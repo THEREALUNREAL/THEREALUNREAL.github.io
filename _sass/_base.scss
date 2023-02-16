@@ -195,14 +195,14 @@ footer a {
   }
 }
 
-div#comparison {
+div.comparison {
   width: 60vw;
   height: 60vw;
   max-width: 600px;
   max-height: 600px;
   overflow: hidden;
 }
-div#comparison figure {
+div.comparison figure {
   background-size: cover;
   position: relative;
   font-size: 0;
@@ -210,12 +210,12 @@ div#comparison figure {
   height: 100%;
   margin: 0;
 }
-div#comparison figure > img {
+div.comparison figure > img {
   position: relative;
   width: 100%;
 }
 
-div#comparison figure div {
+div.comparison figure div {
   background-size: cover;
   position: absolute;
   width: 50%;
