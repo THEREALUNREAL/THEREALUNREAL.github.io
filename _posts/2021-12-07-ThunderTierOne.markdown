@@ -37,8 +37,8 @@ The game did extremely well on release having an almost "Overwhelmingly Positive
 </video>
 
 <div id="comparison">
-  <figure>
-    <div id="divisor"></div>
+  <figure style="background-image: '/images/ThunderTierOne/Maps2_600x200.gif'">
+    <div id="divisor" style="background-image: '/images/ThunderTierOne/SquadFiring_600x200.gif'"></div>
   </figure>
   <input type="range" min="0" max="100" value="50" id="slider" oninput="moveDivisor()">
 </div>
