@@ -14,6 +14,13 @@ Commissioned work for an E-Sports org made in collaboration with my great friend
 
 [![Offset Challenge #1]({{ site.url }}/images/offset/offset_1.jpg)]({{ site.url }}/images/offset/offset_1.jpg)
 <hr>
+<div class="comparison" id="comparison-offset-1">
+  <figure style="background-image: url('/images/offset/offset_challenge_1_after.jpg')">
+    <div id="divisor-offset-1" style="background-image: url('/images/offset/offset_challenge_1_before.jpg')"></div>
+  </figure>
+  <input type="range" min="0" max="100" value="50" class="slider" id="slider-offset-1" oninput="moveDivisor('divisor-offset-1', 'slider-offset-1')">
+</div>
+<hr>
 [![Offset Challenge #2]({{ site.url }}/images/offset/offset_2.jpg)]({{ site.url }}/images/offset/offset_2.jpg)
 <hr>
 [![Offset Challenge #3]({{ site.url }}/images/offset/offset_3.jpg)]({{ site.url }}/images/offset/offset_3.jpg)
