@@ -36,6 +36,13 @@ The game did extremely well on release having an almost "Overwhelmingly Positive
   <source src="/images/ThunderTierOne/gif1.mp4" type="video/mp4">
 </video>
 
+<div id="comparison">
+  <figure>
+    <div id="divisor"></div>
+  </figure>
+  <input type="range" min="0" max="100" value="50" id="slider" oninput="moveDivisor()">
+</div>
+
 <video width="400" height="400" controls autoplay>
   <source src="/images/ThunderTierOne/gif2.mp4" type="video/mp4">
 </video>
