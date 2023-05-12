@@ -9,13 +9,13 @@ banner: true
 bannerimg: /images/logo_dakar18.png
 ---
 
-Dakar 18 is an open world racing game based on the real life event of Dakar. 
+Dakar 18 is an open world racing game based on the real life rally sport of Dakar. 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/cYFOSc1AN9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Joined Bigmoon Entertainment in Porto, Portugal, at the begining of the year of 2018, and started working on the environments of Dakar 18 using Unreal Engine 4. Dakar 18 was a very ambitious project and a massive challenge for the studio. I've learned a lot from this experience and have expanded my knowledge of UE4 and other things.
+Me and my team were primarily tasked with creating the landscape of Peru, Bolivia and Argentina, making extensive use of Google maps and photo references. The idea was to allow the pilots to get lost, just like in the actual event. For this reason it was important to work not only on path determined by the roadbook, but also a significant area around it.
 
-The map is huge and is based off part of Peru, Bolivia and Argentina. The tracks and roadbooks are replicas of the official ones that were used on Dakar 18 adapted to our scale.
+I was also tasked with laying down the spline systems and other gameplay elements, such as checkpoints, mud/sand pits, roadbook elements in the world and other gamemode logic such as the treasure hunt.
 
 [![Dakar 18 #1]({{ site.url }}/images/dakar18/dakar18_1.jpg)]({{ site.url }}/images/dakar18/dakar18_1.jpg)
 <hr>
