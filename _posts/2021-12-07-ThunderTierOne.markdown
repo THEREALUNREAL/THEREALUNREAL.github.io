@@ -15,6 +15,28 @@ _Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where y
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/YVgFHnhc_yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 I started as a Level Designer and Environment Artist, but seeing as we didn't have that big of a team dedicated to this project I also ended up having an hand on Game Design, outgame systems and some UI work even.
 
+[Title] Test [Title]
+
+# Title
+
+## Title
+
+### Title
+
+#### Title
+
+### My Great Heading {#6}
+
+I was responsible primarily for the Level Design and Environment Art in Thunder Tier One. The level design team consisted of me and my colleague João Rebelo. I was more or less involved in the creation of all the levels.
+
+
+- LEVEL DESIGN
+- LEVEL LOGIC
+- DESTRUCTIBLES
+- GAME DESIGN
+- 
+
+
 [![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
 
 Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my -adopted- baby that I care for a lot.
