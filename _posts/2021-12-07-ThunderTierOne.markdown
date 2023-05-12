@@ -13,9 +13,7 @@ bannerimg: /images/logo_thundertierone.png
 _Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where you play as an elite special operations team. I've had the pleasure and honor of being part of this project and working with a small but very talented and passionate team.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/YVgFHnhc_yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-I started as a Level Designer and Environment Artist, but seeing as we didn't have that big of a team dedicated to this project I also ended up having an hand on Game Design, outgame systems and some UI work even.
 
-[Title] Test [Title]
 
 #### World of Thunder Tier One
 
@@ -26,9 +24,19 @@ With Thunder we wanted to ensure a realistic experience for the player. For this
 Thunder features a costumizable inventory that allows players to bring different gadgets to each mission such as fiber optic cameras, wire cutters, lockpicker and more. Each item the player brings with him adds to his weight, affecting his movement and weapon control. The goal for us was that with each time the player plays a mission, he'll gradually recognize certain things he can exploit in his next run. The levels had to be designed with these mechanics in mind and ensure a balanced, fun and rewarding experience.
 
 
+
 #### Logic
 
 Thunder had quite a small team of developers, and while this has its obvious downsides its' also got some cool perks. I was able to work super close to our engineers and get a good grasp of all the systems in the game. With this knowledge, I was responsible for setting up much of the level logic such as AI spawners, triggers, and other multiplayer gamemodes such as Deathmatch, Advance And Secure and Exfil.
+
+
+
+#### A destructible world
+
+Realism was a big thing for us with this project, and for this reason we wanted the world to feel real and chaotic.
+
+This was perhaps one of the most challenging features of the game to get right, but together with the engineers we managed to find working solutions to all the challenges we faced.
+
 
 
 #### Exfil
