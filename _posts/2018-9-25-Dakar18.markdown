@@ -17,6 +17,8 @@ Me and my team were primarily tasked with creating the landscape of Peru, Bolivi
 
 I was also tasked with laying down the spline systems and other gameplay elements, such as checkpoints, mud/sand pits, roadbook elements in the world and other gamemode logic such as the treasure hunt.
 
+All in all this was an extremely ambitious project for the scale of our team. It was a rocky adventure that wasn't always easy but an experience that I value tremendously. I'm grateful for having been part of this, and having had the chance to meet and work with so many awesome people.
+
 [![Dakar 18 #1]({{ site.url }}/images/dakar18/dakar18_1.jpg)]({{ site.url }}/images/dakar18/dakar18_1.jpg)
 <hr>
 [![Dakar 18 #2]({{ site.url }}/images/dakar18/dakar18_2.jpg)]({{ site.url }}/images/dakar18/dakar18_2.jpg)
