@@ -17,24 +17,44 @@ I started as a Level Designer and Environment Artist, but seeing as we didn't ha
 
 [Title] Test [Title]
 
-# Title
+#### World of Thunder Tier One
 
-## Title
+I was responsible primarily for the Level Design and Environment Art in Thunder Tier One. The level design team consisted of me and my colleague João Rebelo. I was more or less involved in the creation of all the levels in some regard.
 
-### Title
+With Thunder we wanted to ensure a realistic experience for the player. For this reason AI behaviour was super important to get right and played a big role for Level Design. We determined early on that missions should in most cases support full stealth aproaches. This would depend on the type of mission but was something I took pride in trying to achieve every time I could, as I think it's a great choice to leave up to the player to decide how he's going to tackle each challenge.
 
-#### Title
+Thunder features a costumizable inventory that allows players to bring different gadgets to each mission such as fiber optic cameras, wire cutters, lockpicker and more. Each item the player brings with him adds to his weight, affecting his movement and weapon control. The goal for us was that with each time the player plays a mission, he'll gradually recognize certain things he can exploit in his next run. The levels had to be designed with these mechanics in mind and ensure a balanced, fun and rewarding experience.
 
-### My Great Heading {#6}
 
-I was responsible primarily for the Level Design and Environment Art in Thunder Tier One. The level design team consisted of me and my colleague João Rebelo. I was more or less involved in the creation of all the levels.
+#### Logic
 
+Thunder had quite a small team of developers, and while this has its obvious downsides its' also got some cool perks. I was able to work super close to our engineers and get a good grasp of all the systems in the game. With this knowledge, I was responsible for setting up much of the level logic such as AI spawners, triggers, and other multiplayer gamemodes such as Deathmatch, Advance And Secure and Exfil.
+
+
+#### Exfil
+
+At some point during development, we were asked to brainstorm and come up with potential cool extra gamemodes for PVE and PVP. Being a big fan of PVP games and specificly Counter-Strike I knew I'd love to have a round based gamemode in TTO. 
+
+Thus I took some of my free time to design something I thought could work with the maps we had already designed (with slight adjustments required), that could be fun and offer a lot of replayability.
+
+I came up with Exfil - Sort of an extract gamemode, where one team has to extract a special item that can be dropped once and picked up again if the carrier dies.
+
+
+
+
+
+Being a big fan of multiplayer games, from the start I pushed for different PVP modes and took initiative in adapting and setting up game levels to support different the different gamemodes. 
 
 - LEVEL DESIGN
 - LEVEL LOGIC
 - DESTRUCTIBLES
 - GAME DESIGN
-- 
+-   Exfil
+-   Advance and Secure
+- OUTGAME FEATURES
+-   Contracts
+-   Player Progression
+-   UI
 
 
 [![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
