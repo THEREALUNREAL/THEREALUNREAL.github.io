@@ -9,4 +9,7 @@ banner: true
 bannerimg: /images/logo_demonsage.png
 ---
 
-Worked on a few assets for this game during the summer of 2019 while with *Bigmoon Entertainment*.
+Demons Age is a turn-based roleplaying game. I had the chance to work for a short period of time on this title as an artist during my time with *Bigmoon Entertainment*.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/watch?v=oyT_LXDGyhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
