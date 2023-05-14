@@ -35,7 +35,7 @@ Thunder had quite a small team of developers, and while this has its obvious dow
 
 We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying once in the game.
 
-[![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
+[![TTO #1]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
 
 The last level of the game was entirely designed by me with destructibles in mind. All buildings are made using modular, destructible pieces.
 
@@ -79,23 +79,3 @@ I was pretty much involved in all the levels in some way or another. And while I
 [![TTO #2]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
 
 The game did extremely well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
-
-<video width="400" height="400" controls autoplay>
-  <source src="/images/ThunderTierOne/gif1.mp4" type="video/mp4">
-</video>
-
-<div class="comparison" id="comparison-thunder-tier-one-1">
-  <figure style="background-image: url('/images/ThunderTierOne/Maps2_600x200.gif')">
-    <div id="divisor-thunder-tier-one-1" style="background-image: url('/images/ThunderTierOne/SquadFiring_600x200.gif')"></div>
-  </figure>
-  <input type="range" min="0" max="100" value="50" class="slider" id="slider-thunder-tier-one-1" oninput="moveDivisor('divisor-thunder-tier-one-1', 'slider-thunder-tier-one-1')">
-</div>
-
-<video width="400" height="400" controls autoplay>
-  <source src="/images/ThunderTierOne/gif2.mp4" type="video/mp4">
-</video>
-<video width="400" height="400" controls autoplay>
-  <source src="/images/ThunderTierOne/gif3.mp4" type="video/mp4">
-</video><video width="400" height="400" controls autoplay>
-  <source src="/images/ThunderTierOne/gif4.mp4" type="video/mp4">
-</video>
