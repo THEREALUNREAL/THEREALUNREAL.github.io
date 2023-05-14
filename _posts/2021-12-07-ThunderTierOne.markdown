@@ -23,13 +23,13 @@ With Thunder we wanted to ensure a realistic experience for the player. For this
 
 Thunder features a costumizable inventory that allows players to bring different gadgets to each mission such as fiber optic cameras, wire cutters, lockpicker and more. Each item the player brings with him adds to his weight, affecting his movement and weapon control. The goal for us was that with each time the player plays a mission, he'll gradually recognize certain things he can exploit in his next run. The levels had to be designed with these mechanics in mind and ensure a balanced, fun and rewarding experience.
 
-
+<hr>
 
 #### Logic
 
 Thunder had quite a small team of developers, and while this has its obvious downsides its' also got some cool perks. I was able to work super close to our engineers and get a good grasp of all the systems in the game. With this knowledge, I was responsible for setting up much of the level logic such as AI spawners, triggers, and other multiplayer gamemodes such as Deathmatch, Advance And Secure and Exfil.
 
-
+<hr>
 
 #### A destructible world
 
@@ -39,6 +39,8 @@ We wanted the world to feel real and chaotic, featuring a decent degree of destr
 
 The last level of the game was entirely designed by me with destructibles in mind. All buildings are made using modular, destructible pieces.
 
+<hr>
+
 #### Exfil
 
 At some point during development, we were asked to brainstorm and come up with potential cool extra gamemodes for PVE and PVP. Being a big fan of PVP games and specificly Counter-Strike I knew I'd love to have a round based gamemode in TTO. 
@@ -47,7 +49,7 @@ Thus I took some of my free time to design something I thought could work with t
 
 I came up with Exfil - Sort of an extract gamemode, where one team has to extract a special item that can be dropped once and picked up again if the carrier dies.
 
-
+<hr>
 
 
 
