@@ -37,8 +37,6 @@ We wanted the world to feel real and chaotic, featuring a decent degree of destr
 
 [![TTO #1]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
 
-The last level of the game was entirely designed by me with destructibles in mind. All buildings are made using modular, destructible pieces.
-
 <hr>
 
 #### Exfil
