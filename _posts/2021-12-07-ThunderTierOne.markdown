@@ -33,9 +33,11 @@ Thunder had quite a small team of developers, and while this has its obvious dow
 
 #### A destructible world
 
-We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying once in the game. The last level of the game was entirely designed by me with destructibles in mind. All buildings are made using modular, destructible pieces.
+We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying once in the game.
 
+[![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
 
+The last level of the game was entirely designed by me with destructibles in mind. All buildings are made using modular, destructible pieces.
 
 #### Exfil
 
@@ -62,8 +64,6 @@ Being a big fan of multiplayer games, from the start I pushed for different PVP 
 -   Player Progression
 -   UI
 
-
-[![TTO #1]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)]({{ site.url }}/images/ThunderTierOne/Maps2_600x200.gif)
 
 Having been involved in so many different things in the game, makes this a very special project for me that I'm super proud of and, in a way I consider it atleast partly my -adopted- baby that I care for a lot.
 
