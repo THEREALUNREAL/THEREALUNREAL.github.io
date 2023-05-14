@@ -33,9 +33,7 @@ Thunder had quite a small team of developers, and while this has its obvious dow
 
 #### A destructible world
 
-Realism was a big thing for us with this project, and for this reason we wanted the world to feel real and chaotic.
-
-This was perhaps one of the most challenging features of the game to get right, but together with the engineers we managed to find working solutions to all the challenges we faced.
+We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying once in the game. The last level of the game was entirely designed by me with destructibles in mind. All buildings are made using modular, destructible pieces.
 
 
 
