@@ -9,15 +9,13 @@ banner: true
 bannerimg: /images/logo_worten.png
 ---
 
-asdf, _XLGamesWorld_ in Lisbon during the 4 days of the event with prizes for the best results.
-
-This was commissioned by _Offset Esports_ organization, and was made in collaboration with my great friends _Johan "Birjolaxew" Fagerberg (programmer)_ and _Tomás Viegas (sound designer)_. 
+Kiosk is a CS:GO wingman 
 
 <hr>
 
 <div class="comparison" id="comparison-kiosk-1">
-  <figure style="background-image: url('/images/kiosk/kiosk_overview1.png')">
-    <div id="divisor-kiosk-1" style="background-image: url('/images/kiosk/kiosk_overview2.png')"></div>
+  <figure style="background-image: url('/images/kiosk/kiosk_street1.jpg')">
+    <div id="divisor-kiosk-1" style="background-image: url('/images/kiosk/kiosk_street2.jpg')"></div>
   </figure>
   <input type="range" min="0" max="100" value="75" class="slider" id="slider-kiosk-1" oninput="moveDivisor('divisor-kiosk-1', 'slider-kiosk-1')">
 </div>
