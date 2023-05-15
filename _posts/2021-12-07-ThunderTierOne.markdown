@@ -37,11 +37,11 @@ We wanted the world to feel real and chaotic, featuring a decent degree of destr
 
 #### Exfil
 
-I designed and pitched the multiplayer Exfil gamemode. A 2 team round based gamemode, where 1 side tries to extract a container of hazardous material out of the battlefield while the other tries to stop them. Exfil points are dynamic everyround and players make use of TTO's unique mechanics to play such as UAV and gadgets. Teams swap roles at half time, and the team with most rounds wins the match.
+I designed and pitched the multiplayer Exfil gamemode. A 2 team round based gamemode, where 1 side tries to extract a container of hazardous material out of the battlefield while the other tries to stop them. Exfil points are dynamic every round and players make use of TTO's unique mechanics to play such as UAV and gadgets. Teams swap roles at half time, and the team with most rounds wins the match.
 
 [![TTO #4]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
 
-It's heavily inspired by Counter-Strike gamemodes (which I'm a fan of) and offered a lot of replay value. I had a blast seeing people play through the various iterations and I'm so very happy that it made the final content.
+It's heavily inspired by Counter-Strike gamemodes (which I'm a fan of) and offered a lot of replay value. I had a blast seeing people play through the various iterations and I'm happy that it made the final game.
 
 <hr>
 
