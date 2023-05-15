@@ -9,8 +9,12 @@ banner: true
 bannerimg: /images/logo_offset.png
 ---
 
-Commissioned work for an E-Sports org made in collaboration with my great friend _Johan "Birjolaxew" Fagerberg (programmer)_ and _Tomás Viegas (sound designer)_. This level is made to put the players aim and movement skills to the test. It's available on the 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=19092261">Steam Workshop</a> and it was played on XLGamesWorld in Lisbon during the 4 days of the event on the ASUS main stage.
+Offset Challenge is a time trial map that tests players' aim and movement skills. It's available on the 
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=19092261">Steam Workshop</a> for download, with over 75.000 subscriptions.
+
+The level was also featured on the ASUS main stage of the biggest lan event in Portugal, _XLGamesWorld_ in Lisbon during the 4 days of the event with prizes for the best results.
+
+This was commissioned by E-Sports organization _Offset_, and was made in collaboration with my great friends _Johan "Birjolaxew" Fagerberg (programmer)_ and _Tomás Viegas (sound designer)_. 
 
 <hr>
 
@@ -46,13 +50,4 @@ Commissioned work for an E-Sports org made in collaboration with my great friend
     <div id="divisor-offset-4" style="background-image: url('/images/offset/offset_challenge_4_after.jpg')"></div>
   </figure>
   <input type="range" min="0" max="100" value="75" class="slider" id="slider-offset-4" oninput="moveDivisor('divisor-offset-4', 'slider-offset-4')">
-</div>
-
-<hr>
-
-<div class="comparison" id="comparison-offset-5">
-  <figure style="background-image: url('/images/offset/offset_challenge_5_before.jpg')">
-    <div id="divisor-offset-5" style="background-image: url('/images/offset/offset_challenge_5_after.jpg')"></div>
-  </figure>
-  <input type="range" min="0" max="100" value="75" class="slider" id="slider-offset-5" oninput="moveDivisor('divisor-offset-5', 'slider-offset-5')">
 </div>
