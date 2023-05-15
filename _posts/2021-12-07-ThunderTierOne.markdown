@@ -21,7 +21,7 @@ I was responsible primarily for the Level Design and Environment Art in Thunder 
 
 Thunder missions should be suitable for different aproaches, from stealth to all guns blazing. Players are also able to take equipment such as fiber optic cameras, wire cutters, lock pickers and other items like this to exploit the level objects. All of these things had to be taken into consideration when designing each level.
 
-<br>
+[![TTO #1]({{ site.url }}/images/ThunderTierOne/silverdew.png)]({{ site.url }}/images/ThunderTierOne/silverdew.png)
 
 Thunder had quite a small team of developers, and while this has its obvious downsides its' also got some cool perks. 
 
@@ -33,7 +33,7 @@ I was able to work super close to our engineers and get a good grasp of all the 
 
 We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying once in the game.
 
-[![TTO #1]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
+[![TTO #2]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
 
 <hr>
 
@@ -56,6 +56,6 @@ During development I also tapped into many things outside my field, from designi
 
 [![TTO #3]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)
 
-[![TTO #2]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
+[![TTO #4]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
 
 The game did extremely well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
