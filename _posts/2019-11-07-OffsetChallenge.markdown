@@ -9,12 +9,13 @@ banner: true
 bannerimg: /images/logo_offset.png
 ---
 
-Offset Challenge is a time trial map that tests players' aim and movement skills. It's available on the 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=19092261">Steam Workshop</a> for download, with over 75.000 subscriptions.
+Offset Challenge is a time trial map that tests players' aim and movement skills. 
+It's available on the 
+_<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=19092261">Steam Workshop</a>_ for download, with over 75.000 subscriptions.
 
 The level was also featured on the ASUS main stage of the biggest lan event in Portugal, _XLGamesWorld_ in Lisbon during the 4 days of the event with prizes for the best results.
 
-This was commissioned by E-Sports organization _Offset_, and was made in collaboration with my great friends _Johan "Birjolaxew" Fagerberg (programmer)_ and _Tomás Viegas (sound designer)_. 
+This was commissioned by _Offset Esports_ organization, and was made in collaboration with my great friends _Johan "Birjolaxew" Fagerberg (programmer)_ and _Tomás Viegas (sound designer)_. 
 
 <hr>
 
