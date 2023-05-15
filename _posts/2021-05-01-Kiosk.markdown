@@ -6,7 +6,7 @@ category: "3D/LevelDesign"
 image: /images/kiosk.jpg
 icon: /images/icons/csgo.png
 banner: true
-bannerimg: /images/logo_offset.png
+bannerimg: /images/logo_worten.png
 ---
 
 asdf, _XLGamesWorld_ in Lisbon during the 4 days of the event with prizes for the best results.
