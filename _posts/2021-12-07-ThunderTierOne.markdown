@@ -15,15 +15,13 @@ _Thunder Tier One_ is a realistic top-down shooter game set in the 90's, where y
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/YVgFHnhc_yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#### World of Thunder Tier One
+#### The world of Thunder Tier One
 
 I was responsible primarily for the Level Design and Environment Art in Thunder Tier One.
 
 Thunder missions should be suitable for different aproaches, from stealth to all guns blazing. Players are also able to take equipment such as fiber optic cameras, wire cutters, lock pickers and other items like this to exploit the level objects. All of these things had to be taken into consideration when designing each level.
 
 [![TTO #1]({{ site.url }}/images/ThunderTierOne/silverdew.png)]({{ site.url }}/images/ThunderTierOne/silverdew.png)
-
-Thunder had quite a small team of developers, and while this has its obvious downsides its' also got some cool perks. 
 
 I was able to work super close to our engineers and get a good grasp of all the systems in the game. Having this knowledge allowed me to do much of the level logic setup for our levels from AI spawners, triggers, and setting up other multiplayer gamemodes such as Deathmatch, Advance And Secure and Exfil.
 
@@ -39,23 +37,22 @@ We wanted the world to feel real and chaotic, featuring a decent degree of destr
 
 #### Exfil
 
+I designed and pitched the multiplayer Exfil gamemode. A round based, 2 team gamemode where 1 side tries to extract a container of hazardous material out of the battlefield while the other tries to stop them. Teams swap roles at half time, and the team with most rounds wins the match.
 
+[![TTO #4]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
 
-At some point during development, we were asked to brainstorm and come up with potential cool extra gamemodes for PVE and PVP. Being a big fan of PVP games and specificly Counter-Strike I knew I'd love to have a round based gamemode in TTO. 
-
-Thus I took some of my free time to design something I thought could work with the maps we had already designed (with slight adjustments required), that could be fun and offer a lot of replayability.
-
-I came up with Exfil - Sort of an extract gamemode, where one team has to extract a special item that can be dropped once and picked up again if the carrier dies.
+It's heavily inspired by Counter-Strike gamemodes (which I'm a fan of) and offered a lot of replay value. I had a blast seeing people play through the various iterations and I'm so very happy that it made the final content.
 
 <hr>
 
 #### So many things to do!
 
-During development I also tapped into many things outside my field, from designing many features such as Player Progression, Contracts, Item drops, UI and other things. It was an incredibly valuable experience to work on this game and explore so many things out of my confort zone. I'm glad I was given an oportunity to do this much, and I am so proud of how it all turned out. 
+During development I also tapped into many other things outside my field, from designing systems such as Player Progression, Contracts, Item drops, UI and other things. 
 
+It was an incredibly valuable experience to work on this game and explore so many things out of my confort zone. I'm glad I was given an oportunity to do this much, and I am so proud of how it all turned out. 
 
 [![TTO #3]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)]({{ site.url }}/images/ThunderTierOne/SquadFiring_600x200.gif)
 
-[![TTO #4]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)]({{ site.url }}/images/ThunderTierOne/balloon_600x200.gif)
+<hr>
 
 The game did extremely well on release having an almost "Overwhelmingly Positive" score for the first months on <a href="(https://store.steampowered.com/app/377300/Thunder_Tier_One/)">Steam</a>. I could have not have asked for a better release.
