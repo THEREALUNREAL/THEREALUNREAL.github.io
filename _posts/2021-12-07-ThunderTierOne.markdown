@@ -29,7 +29,7 @@ I was able to work super close to our engineers and get a good grasp of all the 
 
 #### A destructible environment
 
-We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying once in the game.
+We wanted the world to feel real and chaotic, featuring a decent degree of destruction in the environment. I was tasked with creating all destructibles using Houdini and UE4. It was no simple task but the result was quite satisfying to experience once in the game.
 
 [![TTO #2]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)]({{ site.url }}/images/ThunderTierOne/destructibles1.gif)
 
