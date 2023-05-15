@@ -8,7 +8,8 @@ icon: /images/icons/csgo.png
 award: true
 ---
 
-BLAST _placed 1st_ in the <a href="https://gamebanana.com/contests/winners/69">GameBanana Beneath the Dust Mapping Contest</a>. It is a demolition map, located in a military bunker under the sands of Dust.
+BLAST _placed 1st_ in the <a href="https://gamebanana.com/contests/winners/69">GameBanana Beneath the Dust Mapping Contest</a>. 
+It is a CS:GO demolition map, located in a military bunker under the sands of Dust.
 
 You can download <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=529733812">Blast on the Steam Workshop</a>.
 
