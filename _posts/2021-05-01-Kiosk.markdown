@@ -9,7 +9,9 @@ banner: true
 bannerimg: /images/logo_retake.png
 ---
 
-Kiosk is a CS:GO wingman 
+Kiosk is a CS:GO wingman based in a small Portuguese town. The level supports up to 8v8 and features a unique bombsite around a kiosk. 
+
+This level was commissioned by Omen Retake and was played during the esports event by professional players in a showmatch. Following that I was interviewed live and had a chance to speak a little bit about what I do and game development.
 
 <hr>
 
@@ -22,3 +24,15 @@ Kiosk is a CS:GO wingman
 
 <hr>
 
+
+
+[![Dakar 18 #1]({{ site.url }}/images/kiosk/kiosk_street2.jpg)]({{ site.url }}/images/kiosk/kiosk_street2.jpg)
+<hr>
+[![Dakar 18 #2]({{ site.url }}/images/kiosk/kiosk_cafe2.jpg)]({{ site.url }}/images/kiosk/kiosk_street2.jpg)
+<hr>
+[![Dakar 18 #3]({{ site.url }}/images/kiosk/kiosk_birds2.jpg)]({{ site.url }}/images/kiosk/kiosk_street2.jpg)
+<hr>
+[![Dakar 18 #4]({{ site.url }}/images/kiosk/kiosk_overview1.png)]({{ site.url }}/images/kiosk/kiosk_overview1.png)
+<hr>
+[![Dakar 18 #5]({{ site.url }}/images/kiosk/kiosk_overview2.png)]({{ site.url }}/images/kiosk/kiosk_overview2.png)
+<hr>
