@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kiosk"
-date:   2019-11-07 18:00:00 +0100
+date:   2021-05-01 18:00:00 +0100
 category: "3D/LevelDesign"
 image: /images/kiosk.jpg
 icon: /images/icons/csgo.png
