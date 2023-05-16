@@ -13,7 +13,6 @@ Kiosk is a CS:GO wingman based in a small Portuguese town. The level supports up
 
 This level was commissioned by Omen Retake and was played during the esports event by professional players in a showmatch. Following that I was interviewed live and had a chance to speak a little bit about what I do and game development.
 
-<hr>
 
 <div class="comparison" id="comparison-kiosk-1">
   <figure style="background-image: url('/images/Kiosk/kiosk_overview2.png')">
