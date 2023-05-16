@@ -16,8 +16,8 @@ This level was commissioned by Omen Retake and was played during the esports eve
 <hr>
 
 <div class="comparison" id="comparison-kiosk-1">
-  <figure style="background-image: url('/images/Kiosk/kiosk_overview2.jpg')">
-    <div id="divisor-kiosk-1" style="background-image: url('/images/Kiosk/kiosk_overview1.jpg')"></div>
+  <figure style="background-image: url('/images/Kiosk/kiosk_overview2.png')">
+    <div id="divisor-kiosk-1" style="background-image: url('/images/Kiosk/kiosk_overview1.png')"></div>
   </figure>
   <input type="range" min="0" max="100" value="75" class="slider" id="slider-kiosk-1" oninput="moveDivisor('divisor-kiosk-1', 'slider-kiosk-1')">
 </div>
