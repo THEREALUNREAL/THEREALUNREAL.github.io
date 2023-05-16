@@ -26,13 +26,13 @@ This level was commissioned by Omen Retake and was played during the esports eve
 
 
 
-[![Dakar 18 #1]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
+[![Kiosk #1]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
 <hr>
-[![Dakar 18 #2]({{ site.url }}/images/Kiosk/kiosk_cafe2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
+[![Kiosk #2]({{ site.url }}/images/Kiosk/kiosk_cafe2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
 <hr>
-[![Dakar 18 #3]({{ site.url }}/images/Kiosk/kiosk_birds2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
+[![Kiosk #3]({{ site.url }}/images/Kiosk/kiosk_birds2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
 <hr>
-[![Dakar 18 #4]({{ site.url }}/images/Kiosk/kiosk_overview1.png)]({{ site.url }}/images/Kiosk/kiosk_overview1.png)
+[![Kiosk #4]({{ site.url }}/images/Kiosk/kiosk_overview1.png)]({{ site.url }}/images/Kiosk/kiosk_overview1.png)
 <hr>
-[![Dakar 18 #5]({{ site.url }}/images/Kiosk/kiosk_overview2.png)]({{ site.url }}/images/Kiosk/kiosk_overview2.png)
+[![Kiosk #5]({{ site.url }}/images/Kiosk/kiosk_overview2.png)]({{ site.url }}/images/Kiosk/kiosk_overview2.png)
 <hr>
