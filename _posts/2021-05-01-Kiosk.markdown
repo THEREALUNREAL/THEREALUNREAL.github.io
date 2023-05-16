@@ -16,23 +16,35 @@ This level was commissioned by Omen Retake and was played during the esports eve
 <hr>
 
 <div class="comparison" id="comparison-kiosk-1">
-  <figure style="background-image: url('/images/Kiosk/kiosk_street1.jpg')">
-    <div id="divisor-kiosk-1" style="background-image: url('/images/Kiosk/kiosk_street2.jpg')"></div>
+  <figure style="background-image: url('/images/Kiosk/kiosk_overview2.jpg')">
+    <div id="divisor-kiosk-1" style="background-image: url('/images/Kiosk/kiosk_overview1.jpg')"></div>
   </figure>
   <input type="range" min="0" max="100" value="75" class="slider" id="slider-kiosk-1" oninput="moveDivisor('divisor-kiosk-1', 'slider-kiosk-1')">
 </div>
 
 <hr>
 
+<div class="comparison" id="comparison-kiosk-2">
+  <figure style="background-image: url('/images/Kiosk/kiosk_street2.jpg')">
+    <div id="divisor-kiosk-2" style="background-image: url('/images/Kiosk/kiosk_street1.jpg')"></div>
+  </figure>
+  <input type="range" min="0" max="100" value="75" class="slider" id="slider-kiosk-2" oninput="moveDivisor('divisor-kiosk-2', 'slider-kiosk-2')">
+</div>
 
+<hr>
 
-[![Kiosk #1]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
+<div class="comparison" id="comparison-kiosk-3">
+  <figure style="background-image: url('/images/Kiosk/kiosk_cafe2.jpg')">
+    <div id="divisor-kiosk-3" style="background-image: url('/images/Kiosk/kiosk_cafe1.jpg')"></div>
+  </figure>
+  <input type="range" min="0" max="100" value="75" class="slider" id="slider-kiosk-3" oninput="moveDivisor('divisor-kiosk-3', 'slider-kiosk-3')">
+</div>
+
 <hr>
-[![Kiosk #2]({{ site.url }}/images/Kiosk/kiosk_cafe2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
-<hr>
-[![Kiosk #3]({{ site.url }}/images/Kiosk/kiosk_birds2.jpg)]({{ site.url }}/images/Kiosk/kiosk_street2.jpg)
-<hr>
-[![Kiosk #4]({{ site.url }}/images/Kiosk/kiosk_overview1.png)]({{ site.url }}/images/Kiosk/kiosk_overview1.png)
-<hr>
-[![Kiosk #5]({{ site.url }}/images/Kiosk/kiosk_overview2.png)]({{ site.url }}/images/Kiosk/kiosk_overview2.png)
-<hr>
+
+<div class="comparison" id="comparison-kiosk-4">
+  <figure style="background-image: url('/images/Kiosk/kiosk_birds2.jpg')">
+    <div id="divisor-kiosk-4" style="background-image: url('/images/Kiosk/kiosk_birds1.jpg')"></div>
+  </figure>
+  <input type="range" min="0" max="100" value="75" class="slider" id="slider-kiosk-4" oninput="moveDivisor('divisor-kiosk-4', 'slider-kiosk-4')">
+</div>
